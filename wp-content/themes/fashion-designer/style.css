@@ -192,7 +192,7 @@ select:focus{
   padding:0; 
 }
 .sticky .post-main-box h3{
-  background: url(/https://farazeyn.github.io/Beauty-HealthShop/wp-content/themes/fashion-designer/assets/images/pin.png) no-repeat scroll 0 0px;
+  background: url(http://localhost/https:/farazeyn.github.io/Beauty-HealthShop/wp-content/themes/fashion-designer/assets/images/pin.png) no-repeat scroll 0 0px;
   padding-left: 40px;
 }
 .gallery-caption{ 
@@ -405,7 +405,7 @@ p.site-description {
 }
 .serach_inner input.search-submit {
   padding: 10px 25px;
-  background: url(/https://farazeyn.github.io/Beauty-HealthShop/wp-content/themes/fashion-designer/assets/images/search.png) no-repeat scroll 0 8px;
+  background: url(http://localhost/https:/farazeyn.github.io/Beauty-HealthShop/wp-content/themes/fashion-designer/assets/images/search.png) no-repeat scroll 0 8px;
   font-size: 13px;
   text-align: center;
   float: right;
