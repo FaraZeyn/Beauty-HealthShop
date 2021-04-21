@@ -1,0 +1,75 @@
+.main-banner-section, .category-section{
+  width: auto;
+  height: auto;
+}
+/*Banner section*/
+.main-banner-section .wp-block-buttons.aligncenter, .category-section figure{
+  border: none !important;
+}
+.main-banner-section h3{
+  font-family: 'ABeeZee', sans-serif !important;
+  font-weight: 400;
+}
+.main-banner-section a.wp-block-button__link{
+  border: solid 2px #fff !important;
+  background: transparent !important;
+  color: #fff !important;
+}
+.main-banner-section a.wp-block-button__link:hover{
+  border: solid 2px #d1b266 !important;
+  background: #d1b266 !important;
+}
+/*Fashion Category section*/
+.category-section {
+  position: relative;
+  margin-top: -5em;
+  z-index: 999;
+  padding: 25px;
+}
+.category-section .category-outer-box{
+  position: relative;
+  /*overflow: hidden;*/
+  margin-bottom: 15px;
+}
+.category-section .inner-cat-box{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 10px 20px;
+  background-image: linear-gradient( transparent, rgb(000, 000, 000, 0.9));
+  left: 0;
+  z-index: 1;
+}
+.category-section figure{
+  margin: 0;
+  padding: 0;
+}
+.category-section .wp-block-button{
+  margin: 0 !important;
+}
+.category-section a.wp-block-button__link{
+  background: none !important;
+  padding: 0 20px !important;
+}
+.category-section a.wp-block-button__link:after{
+  content: "\f30b";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  color: #fff;
+  font-size: 30px;
+}
+@media screen and (min-width: 768px) and (max-width: 992px){
+  .main-banner-section .wp-block-column.is-vertically-aligned-center{
+    flex-basis: 100% !important;
+    margin-left: 0;
+  }
+}
+@media screen and (max-width:1024px) {
+  .category-section .inner-cat-box .cat-title{
+    flex-basis: 80% !important;
+  }
+  .category-section .inner-cat-box .cat-btn{
+    flex-basis: 20% !important;
+    margin-left: 0;
+  }
+}

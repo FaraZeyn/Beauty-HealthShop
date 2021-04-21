@@ -1,0 +1,1263 @@
+# <!=Copyright (C) 2019 VW Themes
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Fashion Designer 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-22 17:43+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-08-22 18:39+0530\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ../../..\n"
+"Last-Translator: \n"
+"Language: tr\n"
+"X-Poedit-SearchPath-0: fashion-designer\n"
+"X-Poedit-SearchPath-1: fashion-designer 2/languages\n"
+"X-Poedit-SearchPathExcluded-0: fashion-designer 2/languages\n"
+
+#: 404.php:13
+#: inc/customizer.php:391
+#: inc/customizer.php:398
+msgid "404 Not Found"
+msgstr "404 Bulunamadı"
+
+#: 404.php:14
+#: inc/customizer.php:405
+#: inc/customizer.php:412
+msgid "Looks like you have taken a wrong turn, Dont worry, it happens to the best of us."
+msgstr "Görünüşe göre yanlış bir dönüş yaptın, endişelenme, en iyimize olur"
+
+#: no-results.php:17
+msgid "Dont worry&hellip it happens to the best of us"
+msgstr "Endişelenmeyin ve bize yardımcı olur"
+
+#: 404.php:16 
+#: no-results.php:19
+#: inc/customizer.php:419
+#: inc/customizer.php:425
+msgid "Go Back"
+msgstr "Geri dön"
+
+#: archive.php:45 #: archive.php:77 archive.php:107 archive.php:139
+#: archive.php:172 archive.php:207 archive.php:239 image.php:38 image.php:71
+#: image.php:103 image.php:135 image.php:169 image.php:204 image.php:236
+#: index.php:43 index.php:76 index.php:108 index.php:140 index.php:174
+#: index.php:209 index.php:241 search.php:39 search.php:71 search.php:102
+#: search.php:133 search.php:166 search.php:201 search.php:233 single.php:38
+#: single.php:71 single.php:103 single.php:135 single.php:169 single.php:204
+#: single.php:236
+msgid "Previous page"
+msgstr "Önceki sayfa"
+
+#: archive.php:46 #: archive.php:78 archive.php:109 archive.php:140
+#: archive.php:173 archive.php:208 archive.php:240 image.php:39 image.php:72
+#: image.php:104 image.php:136 image.php:170 image.php:205 image.php:237
+#: index.php:44 index.php:77 index.php:109 index.php:141 index.php:175
+#: index.php:210 index.php:242 search.php:40 search.php:72 search.php:103
+#: search.php:134 search.php:167 search.php:202 search.php:234 single.php:39
+#: single.php:72 single.php:104 single.php:136 single.php:170 single.php:205
+#: single.php:237
+msgid "Next page"
+msgstr "Sonraki Sayfa"
+
+#: archive.php:47 #: archive.php:79 archive.php:110 archive.php:141
+#: archive.php:174 archive.php:209 archive.php:241 image.php:40 image.php:73
+#: image.php:105 image.php:137 image.php:171 image.php:206 image.php:238
+#: index.php:45 index.php:78 index.php:110 index.php:142 index.php:176
+#: index.php:211 index.php:243 search.php:41 search.php:73 search.php:104
+#: search.php:135 search.php:168 search.php:203 search.php:235 single.php:40
+#: single.php:73 single.php:105 single.php:137 single.php:171 single.php:206
+#: single.php:238
+msgid "Page"
+msgstr "Sayfa"
+
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo"
+msgstr "Bir düşünce, & ldquo;% s & rdquo"
+
+#: comments.php:39
+msgid "comments title"
+msgstr "yorum başlığı"
+
+#: comments.php:70
+msgid "Comments are closed"
+msgstr "yoruma kapalı"
+
+#: footer.php:11
+msgid "Footer"
+msgstr "Alt Bilgi"
+
+#: footer.php:58
+msgid "&copy; Copyright 2019"
+msgstr "Kopyalayıp; Telif Hakkı 2019"
+
+#: footer.php:62 #: footer.php:64 footer.php:66
+msgid "Scroll Up"
+msgstr "Yukarı kaydırmak"
+
+#: functions.php:66
+msgid "Warm Greetings to you"
+msgstr "Size sıcak selamlar"
+
+#: functions.php:67
+msgid ""
+"Thank you for choosing Fashion Designer Theme. Would like to have you on our "
+"Welcome page so that you can reap all the benefits of our Fashion Designer "
+"Theme"
+msgstr ""
+"Moda Tasarımcısı Temasını seçtiğiniz için teşekkür ederiz. Moda Tasarımcısı "
+"Temamızın tüm avantajlarından yararlanabilmeniz için Hoş Geldiniz sayfamıza "
+"katılmak ister misiniz?"
+
+#: functions.php:68
+msgid "GET STARTED"
+msgstr "BAŞLAMAK"
+
+#: functions.php:75
+msgid "Blog Sidebar"
+msgstr "Blog Kenar Çubuğu"
+
+#: functions.php:76
+msgid "Appears on blog page sidebar"
+msgstr "Blog sayfası kenar çubuğunda görünüyor"
+
+#: functions.php:85
+msgid "Page Sidebar"
+msgstr "Sayfa Kenar Çubuğu"
+
+#: functions.php:86 #: functions.php:96
+msgid "Appears on page sidebar"
+msgstr "Sayfa kenar çubuğunda görünür"
+
+#: functions.php:95
+msgid "Sidebar 3"
+msgstr "Kenar çubuğu 3"
+
+#: functions.php:105 
+msgid "Footer Navigation 1"
+msgstr "Altbilgi Gezintisi 1"
+
+#: functions.php:106
+msgid "Appears on footer 1"
+msgstr "Altbilgi görünür 1"
+
+#: functions.php:115 
+msgid "Footer Navigation 2"
+msgstr "Altbilgi Gezintisi 2"
+
+#: functions.php:116
+msgid "Appears on footer 2"
+msgstr "Altbilgi görünür 2"
+
+#: functions.php:125 
+msgid "Footer Navigation 3"
+msgstr "Altbilgi Gezintisi 3"
+
+#: functions.php:126
+msgid "Appears on footer 3"
+msgstr "Altbilgi görünür 3"
+
+#: functions.php: 135
+msgid "Footer Navigation 4"
+msgstr "Altbilgi Gezintisi 4"
+
+#: functions.php:136
+msgid "Appears on footer 4"
+msgstr "Altbilgi görünür 4"
+
+#: functions.php:145
+msgid "Shop Page Sidebar"
+msgstr "Mağaza Sayfası Kenar Çubuğu"
+
+#: functions.php:146
+#: functions.php:156
+msgid "Appears on shop page"
+msgstr "Mağaza sayfasında görünür"
+
+#: functions.php:155
+msgid "Single Product Sidebar"
+msgstr "Tek Ürünlü Kenar Çubuğu"
+
+#: functions.php:350
+msgid "Fashion WordPress Theme"
+msgstr "Moda WordPress Teması"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr "Hiçbirşey Bulunamadı"
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here"
+msgstr "İlk paylaşımını yapmak için hazır mısın? buradan başla"
+
+#: no-results.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords"
+msgstr ""
+"Üzgünüz, arama terimlerinizle hiçbir şey eşleşmedi. Lütfen farklı anahtar "
+"kelimelerle tekrar deneyin"
+
+#: search.php:13
+msgid "Results For: %s"
+msgstr "Sonuçlar:% s"
+
+#: searchform.php:12 #: searchform.php:14
+msgid "placeholder"
+msgstr "tutucudur"
+
+#: searchform.php:14
+msgid "submit button"
+msgstr "gönder düğmesi"
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr "arşiv"
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr "Meta"
+
+#: inc\customizer.php:28
+msgid "VW Settings"
+msgstr "VW Ayarları"
+
+#: inc\customizer.php:33
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: inc\customizer.php:38
+msgid "Full Width"
+msgstr "Tam genişlik"
+
+#: inc\customizer.php:43
+msgid "Width Layouts"
+msgstr "Genişlik Düzenleri"
+
+#: inc\customizer.php:44
+msgid "Here you can change the width layout of Website"
+msgstr "Buradan Web sitesinin genişlik düzenini değiştirebilirsiniz."
+
+#: inc\customizer.php:53 inc\customizer.php:63 #: inc\customizer.php:82
+msgid "Right Sidebar"
+msgstr "Sağ Kenar Çubuğu"
+
+#: inc\customizer.php:58
+msgid "Post Sidebar Layout"
+msgstr "Kenar Çubuğu Düzeni Sonrası"
+
+#: inc\customizer.php:59
+msgid "Here you can change the sidebar layout for posts"
+msgstr "Buradan gönderiler için kenar çubuğu düzenini değiştirebilirsiniz."
+
+#: inc\customizer.php:62 #: inc\customizer.php:81
+msgid "Left Sidebar"
+msgstr "Sol Kenar Çubuğu"
+
+#: inc\customizer.php:64 #: inc\customizer.php:83 inc\customizer.php:72
+msgid "One Column"
+msgstr "Bir sütun"
+
+#: inc\customizer.php:65
+msgid "Three Columns"
+msgstr "Üç Sütun"
+
+#: inc\customizer.php:66
+msgid "Four Columns"
+msgstr "Dört Sütun"
+
+#: inc\customizer.php:67
+msgid "Grid Layout"
+msgstr "Izgara Düzeni"
+
+#: inc\customizer.php:77
+msgid "Page Sidebar Layout"
+msgstr "Sayfa Kenar Çubuğu Düzeni"
+
+#: inc\customizer.php:78
+msgid "Here you can change the sidebar layout for pages"
+msgstr "Buradan sayfaların kenar çubuğu düzenini değiştirebilirsiniz."
+
+#: inc\customizer.php:94
+msgid 'Shop Page Sidebar'
+msgstr "Mağaza Sayfası Kenar Çubuğu"
+
+#: inc\customizer.php:105
+msgid 'Single Product Sidebar'
+msgstr "Tek Ürünlü Kenar Çubuğu"
+
+#: inc\customizer.php:116
+msgid 'Pre-Loader'
+msgstr "Ön Yükleyici"
+
+#: inc\customizer.php:126
+msgid 'Pre-Loader Type'
+msgstr "Ön Yükleyici Tipi"
+
+#: inc\customizer.php:129
+msgid 'Two Way'
+msgstr "İki yönlü"
+
+#: inc\customizer.php:130
+msgid 'Dots'
+msgstr "noktalar"
+
+#: inc\customizer.php:131
+msgid 'Rotate'
+msgstr "Döndürme"
+
+#: inc\customizer.php:137
+msgid "Top Bar Settings"
+msgstr "En İyi Bar Ayarları"
+
+#: inc\customizer.php:148
+msgid "Sticky Header"
+msgstr "Yapışkan Başlık"
+
+#: inc\customizer.php:158
+msgid "Show / Hide Search"
+msgstr "Aramayı Göster / Gizle"
+
+#: inc\customizer.php:167
+msgid "Add Phone Text"
+msgstr "Telefon Metni Ekle"
+
+#: inc\customizer.php:169
+msgid "PHONE"
+msgstr "TELEFON"
+
+#: inc\customizer.php:180
+msgid "Add Phone Number"
+msgstr "Telefon numarası ekle"
+
+#: inc\customizer.php:193
+msgid "Add Email Text"
+msgstr "E-posta Metni Ekle"
+
+#: inc\customizer.php:195
+msgid "MAIL"
+msgstr "POSTA"
+
+#: inc\customizer.php:206
+msgid "Add Email Address"
+msgstr "E-posta adresi ekle"
+
+#: inc\customizer.php:208
+msgid "example@gmail.com"
+msgstr "Aramayı Göster / Gizle"
+
+#: inc\customizer.php:216 inc\getstarted\getstarted.php:195 #:
+#: inc\getstarted\getstarted.php:99
+msgid "Slider Settings"
+msgstr "Slider Ayarları"
+
+#: inc\customizer.php:226
+msgid "Show / Hide Slider"
+msgstr "Kaydırıcıyı Göster / Gizle"
+
+#: inc\customizer.php:236
+msgid "Select Slider Page"
+msgstr "Slider Sayfasını Seç"
+
+#: inc\customizer.php:238
+msgid "Slider image size (1600 x 700)"
+msgstr "Kaymak görüntü boyutu (1600 x 700)"
+
+#: inc\customizer.php:246
+msgid "Center"
+msgstr "merkez"
+
+#: inc\customizer.php:251
+msgid "Slider Content Layouts"
+msgstr "Slider İçerik Düzenleri"
+
+#: inc\customizer.php:266
+msgid "Slider Image Opacity"
+msgstr "Slider Image Opacity"
+
+#: inc\customizer.php:286
+msgid "Fashion Categroy Section"
+msgstr "Moda Kategorisi Bölümü"
+
+#: inc\customizer.php:309
+msgid "Select Category to display Latest Post"
+msgstr "Son Gönderiyi görüntülemek için Kategori'yi seçin"
+
+#: inc\customizer.php:310
+msgid "Size of image should be 370 x 270"
+msgstr "Resmin boyutu 370 x 270"
+
+#: inc\customizer.php:316
+msgid "Blog Post Settings"
+msgstr "Blog Gönderi Ayarları"
+
+#: inc\customizer.php:326
+msgid "Post Date"
+msgstr "Posta tarihi"
+
+#: inc\customizer.php:336
+msgid "Author"
+msgstr "Yazar"
+
+#: inc\customizer.php:346
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: inc\customizer.php:358
+msgid "Excerpt length"
+msgstr "Alıntı uzunluğu"
+
+#: inc\customizer.php:376
+msgid "Blog Layouts"
+msgstr "Blog Düzenleri"
+
+#: inc/customizer.php:386
+msgid "404 Page Settings"
+msgstr "404 Sayfa Ayarları"
+
+#: inc/customizer.php:396
+msgid "Add Title"
+msgstr "Başlık ekle"
+
+#: inc/customizer.php:410
+msgid "Add Text"
+msgstr "Yazı ekle"
+
+#: inc/customizer.php:423
+msgid "Add Button Text"
+msgstr "Düğme Metni Ekle"
+
+#: inc\customizer.php:443
+msgid "Customize Home Page Settings"
+msgstr "Ana Sayfa Ayarlarını Özelleştir"
+
+#: inc\customizer.php:446
+msgid ""
+"First select static page in homepage setting for front page.Below given edit "
+"button is to customize Home Page. Just click on the edit option, add "
+"whatever elements you want to include in the homepage, save the changes and "
+"you are good to go"
+msgstr ""
+"Ön sayfa için ana sayfa ayarında ilk statik sayfayı seçin. Buna rağmen, "
+"verilen düzenleme düğmesi Ana Sayfayı özelleştirmek içindir. Sadece "
+"düzenleme seçeneğine tıklayın, ana sayfaya eklemek istediğiniz öğeleri "
+"ekleyin, değişiklikleri kaydedin ve gitmeye hazırsınız"
+
+#: inc\customizer.php:450 
+#: template-parts\image-layout.php:33
+msgid "Edit"
+msgstr "Düzenle"
+
+#: inc\customizer.php:455
+msgid "Footer Settings"
+msgstr "Altbilgi Ayarları"
+
+#: inc\customizer.php:464
+msgid "Copyright Text"
+msgstr "Telif Hakkı Metni"
+
+#: inc\customizer.php:466
+msgid "Copyright 2019"
+msgstr "Telif Hakkı 2019"
+
+#: inc\customizer.php:478
+msgid "Show / Hide Scroll To Top"
+msgstr "Kaydırmayı Yukarıya Göster / Gizle"
+
+#: inc\customizer.php:483
+msgid "Right"
+msgstr "Sağ"
+
+#: inc\customizer.php:488
+msgid "Scroll To Top"
+msgstr "Yukarı Kaydır"
+
+#: inc\customizer.php:573
+msgid "Fashion Designer Pro"
+msgstr "Moda Tasarımcısı Pro"
+
+#: inc\customizer.php:574
+msgid "UPGRADE PRO"
+msgstr "YÜKSELTME PRO"
+
+#: inc\customizer.php:580
+#: inc\getstarted\getstarted.php:70
+msgid "DOCUMENTATION"
+msgstr "BELGELER"
+
+#: inc\customizer.php:581
+msgid "DOCS"
+msgstr "DOKÜMANLAR"
+
+#: inc\getstarted\getstarted.php:5
+msgid "About Fashion Designer"
+msgstr "Moda Tasarımcısı Hakkında"
+
+#: inc\getstarted\getstarted.php:38
+msgid "Welcome to Fashion Designer Theme"
+msgstr "Moda Tasarımcısı Temasına Hoş Geldiniz"
+
+#: inc\getstarted\getstarted.php:39
+msgid ""
+"All our WordPress themes are modern, minimalist, 100% responsive, seo-"
+"friendly,feature-rich, and multipurpose that best suit designers, bloggers "
+"and other professionals who are working in the creative fields"
+msgstr ""
+"Tüm WordPress temalarımız modern, minimalist,% 100 duyarlı, seo-dostu, "
+"zengin özelliklere sahip ve yaratıcı alanlarda çalışan tasarımcılara, "
+"blogculara ve diğer profesyonellere en uygun olan çok amaçlı"
+
+#: inc\getstarted\getstarted.php:46
+msgid "Buy Fashion Designer at 20% Discoun"
+msgstr "Moda Tasarımcısı% 20 indirimli satın al"
+
+#: inc\getstarted\getstarted.php:47
+msgid "vwpro20"
+msgstr "vwpro20"
+
+#: inc\getstarted\getstarted.php:49 #: inc\getstarted\getstarted.php:327
+msgid "Upgrade to Pro"
+msgstr "Pro'ya yükselt"
+
+#: inc\getstarted\getstarted.php:56
+msgid "Getting Started"
+msgstr "Başlamak"
+
+#: inc\getstarted\getstarted.php:57
+msgid "Get Premium"
+msgstr "Premium Alın"
+
+#: inc\getstarted\getstarted.php:58
+msgid "Support"
+msgstr "Destek"
+
+#: inc\getstarted\getstarted.php:63
+msgid "Lite Theme Information"
+msgstr "Lite Tema Bilgisi"
+
+#: inc\getstarted\getstarted.php:65
+msgid ""
+"Fashion designer is a theme of premium category solely crafted for the "
+"fashion designers or fashion stylists or people who are associated with the "
+"business related to fashion or associated areas. It is a multipurpose, "
+"minimal and elegant theme making it a preferable one for the make-up "
+"artists, beauty salon operators well as personal designers. Being "
+"sophisticated, retina ready and user-friendly and accompanied with "
+"testimonial section, personalization options plus Bootstrap and CTA, this "
+"WordPress theme of premium level is good for the cosmetic boutique business "
+"and for the makeup salon as well as hair stylists. Fashion Designer  "
+"WordPress theme is social media and SEO friendly and apart from that, the "
+"theme is accompanied with optimised codes, clean codes and has the faster "
+"page load time. Fashion designer is also good for nail salon, visage salon, "
+"makeup studio, beauty blog, glamour and others. Since it is mobile friendly, "
+"responsive as well as translation ready, this premium wp theme can also be "
+"used to create blogs related to fashion, beauty, lifestyle, make up, gossip "
+"or food or journal blog and there is no requirement to write a single line "
+"of code. Fashion designer has the potential to create an exotic feminine "
+"fashion blog and is also a preferable one for bloggers, newspapers, writers "
+"or journalists"
+msgstr ""
+"Moda tasarımcısı, yalnızca moda tasarımcıları veya moda stilistleri veya "
+"moda veya ilgili alanlarla ilgili işle ilişkili kişiler için hazırlanmış "
+"premium kategorinin bir temasıdır. Makyaj sanatçılar, güzellik salonu "
+"operatörleri ve kişisel tasarımcılar için tercih edilen bir tema, çok "
+"amaçlı, minimal ve zarif bir tema. Sofistike, retinaya hazır ve kullanıcı "
+"dostu olup, referans bölümü, kişiselleştirme seçenekleri ve Bootstrap ve CTA "
+"ile birlikte, birinci sınıf seviyedeki bu WordPress teması, kozmetik butik "
+"işi ve kuaförlerin yanı sıra, kozmetik mağazası için de iyidir. Moda "
+"Tasarımcısı WordPress teması sosyal medya ve SEO dostu ve bunun yanı sıra, "
+"tema, optimize edilmiş kodlar, temiz kodlar ile birlikte ve daha hızlı sayfa "
+"yükleme süresine sahip. Moda tasarımcısı ayrıca tırnak salonu, visage salon, "
+"makyaj stüdyosu, güzellik blog, sihir ve diğerleri için iyidir. Mobil dostu, "
+"duyarlı ve çeviriye hazır olduğu için, bu premium wp teması moda, güzellik, "
+"yaşam tarzı, makyaj, dedikodu veya yiyecek veya dergi bloguyla ilgili "
+"bloglar oluşturmak için de kullanılabilir ve tek bir yazma zorunluluğu "
+"yoktur. kod satırı. Moda tasarımcısı egzotik bir kadınsı moda blogu yaratma "
+"potansiyeline sahiptir ve aynı zamanda blogcular, gazeteler, yazarlar veya "
+"gazeteciler için tercih edilen bir blogtur."
+
+#: inc\getstarted\getstarted.php:67
+msgid "Theme Documentation"
+msgstr "Tema Belgeleri"
+
+#: inc\getstarted\getstarted.php:68
+msgid ""
+"If you need any assistance regarding setting up and configuring the Theme, "
+"our documentation is there"
+msgstr ""
+"Temayı ayarlamak ve yapılandırmak için herhangi bir yardıma ihtiyacınız "
+"olursa, bizim belgelerimiz"
+
+#: inc\getstarted\getstarted.php:73
+msgid "Theme Customizer"
+msgstr "Tema Özelleştirici"
+
+#: inc\getstarted\getstarted.php:74
+msgid "To begin customizing your website, start by clicking \"Customize\""
+msgstr ""
+"Web sitenizi özelleştirmeye başlamak için \"Özelleştir\" i tıklayarak "
+"başlayın"
+
+#: inc\getstarted\getstarted.php:76
+msgid "Customizing"
+msgstr "Özelleştirme"
+
+#: inc\getstarted\getstarted.php:79
+msgid "Having Trouble, Need Support"
+msgstr "Belada Olmak, Desteğe İhtiyaç Var"
+
+#: inc\getstarted\getstarted.php:80
+msgid ""
+"Our dedicated team is well prepared to help you out in case of queries and "
+"doubts regarding our theme"
+msgstr ""
+"Özel ekibimiz, temamızla ilgili soru ve şüpheleriniz olduğunda size yardımcı "
+"olmak için hazırdır."
+
+#: inc\getstarted\getstarted.php:82
+msgid "Support Forum"
+msgstr "Destek Forumu"
+
+#: inc\getstarted\getstarted.php:85
+msgid "Reviews & Testimonials"
+msgstr "Yorumlar ve Görüşler"
+
+#: inc\getstarted\getstarted.php:86
+msgid ""
+"All the features and aspects of this WordPress Theme are phenomenal. I\"d "
+"recommend this theme to all"
+msgstr ""
+"Bu WordPress Temasının tüm özellikleri ve yönleri olağanüstüdür. Bu temayı "
+"herkese tavsiye ederim"
+
+#: inc\getstarted\getstarted.php:88
+msgid "Reviews"
+msgstr "yorumlar"
+
+#: inc\getstarted\getstarted.php:91
+msgid "Link to customizer"
+msgstr "Özelleştiriciye bağlantı"
+
+#: inc\getstarted\getstarted.php:96
+msgid "Upload your logo"
+msgstr "Logonuzu yükleyin"
+
+#: inc\getstarted\getstarted.php:104
+msgid "Customize Home Page"
+msgstr "Giriş Sayfasını Özelleştir"
+
+#: inc\getstarted\getstarted.php:107
+msgid "Fashion Category"
+msgstr "Moda Kategorisi"
+
+#: inc\getstarted\getstarted.php:112
+msgid "Menus"
+msgstr "Menüler"
+
+#: inc\getstarted\getstarted.php:115
+msgid "Footer Widget"
+msgstr "Altbilgi Widget'ı"
+
+#: inc\getstarted\getstarted.php:121
+msgid "Blog Layout"
+msgstr "Blog Düzeni"
+
+#: inc\getstarted\getstarted.php:124
+msgid "Footer Text"
+msgstr "Altbilgi metni"
+
+#: inc\getstarted\getstarted.php:131
+msgid "How to set up Home Page Template"
+msgstr "Giriş Sayfası Şablonu nasıl ayarlanır?"
+
+#: inc\getstarted\getstarted.php:133
+msgid "Follow these instructions to setup Home page"
+msgstr "Giriş sayfasını ayarlamak için bu talimatları izleyin"
+
+#: inc\getstarted\getstarted.php:135
+msgid "Create a Page to set template:  Go to"
+msgstr "Şablon ayarlamak için bir sayfa oluşturun:"
+
+#: inc\getstarted\getstarted.php:136
+msgid "Dashboard &gt;&gt; Pages &gt;&gt; Add New Page"
+msgstr "Gösterge Tablosu & gt; & gt; Sayfalar & gt; & gt; Yeni Sayfa Ekle"
+
+#: inc\getstarted\getstarted.php:137
+msgid ""
+"Label it \"home\" or anything as you wish. Then select template \"home-page"
+"\" from template dropdown"
+msgstr ""
+"\"Ev\" veya istediğiniz bir şeyi etiketleyin. Ardından, şablon açılır "
+"listesinden \"ana sayfa\" şablonunu seçin"
+
+#: inc\getstarted\getstarted.php:139
+msgid "Go to"
+msgstr "Git"
+
+#: inc\getstarted\getstarted.php:140
+msgid ""
+"Settings -&gt; Reading --&gt; Set the front page display static page to home "
+"page"
+msgstr ""
+"Ayarlar - & gt; Okuma - & gt; Ön sayfa görüntüleme statik sayfasını ana "
+"sayfaya ayarla"
+
+#: inc\getstarted\getstarted.php:142
+msgid ""
+"Once you are done with this, you can see all the demo content on front page"
+msgstr "Bunu yaptıktan sonra, tüm demo içeriğini ön sayfada görebilirsiniz"
+
+#: inc\getstarted\getstarted.php:148
+msgid "Premium Theme Information"
+msgstr "Premium Tema Bilgisi"
+
+#: inc\getstarted\getstarted.php:151
+msgid ""
+"Fashion designer WordPress theme is creative as well as sharp and is pliable "
+"and responsive making it a preferable choice for the fashion industry as "
+"well as fashion designers or the startups who want to excel in the fashion "
+"related business. With this theme, you are in a position to craft the "
+"websites of professional quality because of certain mind-blowing features "
+"like customization and personalization options, retina ready, Bootstrap, "
+"CTA, translation readiness, clean code, testimonial section and much more-"
+"all making this theme good for the makeup artists as well as personal "
+"designers. Fashion designer WP theme is good for cosmetics boutique, makeup "
+"salon, hairstylist, fashion blog, hairdresser, nail salon, visage salon, "
+"makeup studio, beauty blog, glamour, and others. Since this WP theme is "
+"clean and animated, it can be used to create fashion, lifestyle, beauty, "
+"makeup, gossip, food or a journal blog without writing a single line of "
+"code. Since it is luxurious with shortcodes, feminine fashion blog can be "
+"created as well"
+msgstr ""
+"Moda tasarımcısı WordPress teması hem yaratıcı hem de keskin ve esnek ve "
+"duyarlı, moda endüstrisinin yanı sıra moda tasarımcıları veya moda ile "
+"ilgili işlerde başarılı olmak isteyen yeni başlayanlar için tercih edilen "
+"bir seçimdir. Bu tema ile, özelleştirme ve kişiselleştirme seçenekleri, "
+"retina hazır, Önyükleme, CTA, çeviri hazırlığı, temiz kod, referans bölümü "
+"ve çok daha fazlası gibi belirli akıllara durgunluk veren özellikler "
+"nedeniyle profesyonel kalitede web siteleri oluşturma pozisyonundasınız. Bu "
+"tema makyaj tasarımcıları ve kişisel tasarımcılar için iyidir. Moda "
+"tasarımcısı WP tema kozmetik butik, makyaj salonu, kuaför, moda blog, "
+"kuaför, tırnak salonu, görünüme salonu, makyaj stüdyosu, güzellik blog, "
+"sihir ve diğerleri için iyidir. Bu WP teması temiz ve hareketli olduğu için, "
+"tek bir kod satırı yazmadan moda, yaşam tarzı, güzellik, makyaj, dedikodu, "
+"yemek veya günlük blogu oluşturmak için kullanılabilir. Kısa kodlarla lüks "
+"olduğu için kadınsı moda blogu da oluşturulabilir."
+
+#: inc\getstarted\getstarted.php:153
+msgid "Live Demo"
+msgstr "Canlı Demo"
+
+#: inc\getstarted\getstarted.php:154
+msgid "Buy Pro"
+msgstr "Pro satın al"
+
+#: inc\getstarted\getstarted.php:155
+msgid "Pro Documentation"
+msgstr "Pro Belgeler"
+
+#: inc\getstarted\getstarted.php:162
+msgid "Theme Features"
+msgstr "Tema Özellikleri"
+
+#: inc\getstarted\getstarted.php:169
+msgid "Free Themes"
+msgstr "Bedava Temalar"
+
+#: inc\getstarted\getstarted.php:170
+msgid "Premium Themes"
+msgstr "Premium Temalar"
+
+#: inc\getstarted\getstarted.php:175
+msgid "Theme Customization"
+msgstr "Tema Özelleştirme"
+
+#: inc\getstarted\getstarted.php:180
+msgid "Responsive Design"
+msgstr "Duyarlı tasarım"
+
+#: inc\getstarted\getstarted.php:185
+msgid "Logo Upload"
+msgstr "Logo Yükle"
+
+#: inc\getstarted\getstarted.php:190
+msgid "Social Media Links"
+msgstr "Sosyal Medya Linkleri"
+
+#: inc\getstarted\getstarted.php:200
+msgid "Number of Slides"
+msgstr "Slayt Sayısı"
+
+#: inc\getstarted\getstarted.php:202
+msgid "Unlimited"
+msgstr "Sınırsız"
+
+#: inc\getstarted\getstarted.php:205
+msgid "Template Pages"
+msgstr "Şablon Sayfaları"
+
+#: inc\getstarted\getstarted.php:210
+msgid "Home Page Template"
+msgstr "Ana Sayfa Şablonu"
+
+#: inc\getstarted\getstarted.php:215
+msgid "Contact us Page Template"
+msgstr "Bize Ulaşın Sayfa Şablonu"
+
+#: inc\getstarted\getstarted.php:220
+msgid "Blog Templates & Layout"
+msgstr "Blog Şablonları ve Mizanpajı"
+
+#: inc\getstarted\getstarted.php:222
+msgid "3(Full width/Left/Right Sidebar)"
+msgstr "3 (Tam genişlik / Sol / Sağ Kenar Çubuğu)"
+
+#: inc\getstarted\getstarted.php:225
+msgid "Page Templates & Layout"
+msgstr "Sayfa Şablonları ve Düzen"
+
+#: inc\getstarted\getstarted.php:227
+msgid "2(Left/Right Sidebar)"
+msgstr "2 (Sol / Sağ Kenar Çubuğu)"
+
+#: inc\getstarted\getstarted.php:230
+msgid "Full Documentation"
+msgstr "Tam Belgeler"
+
+#: inc\getstarted\getstarted.php:235
+msgid "Latest WordPress Compatibility"
+msgstr "En Son WordPress Uyumluluğu"
+
+#: inc\getstarted\getstarted.php:240
+msgid "Woo-Commerce Compatibility"
+msgstr "Woo-Commerce Uyumluluğu"
+
+#: inc\getstarted\getstarted.php:245
+msgid "Support 3rd Party Plugins"
+msgstr "3. Parti Eklentileri Destekleyin"
+
+#: inc\getstarted\getstarted.php:250
+msgid "Secure and Optimized Code"
+msgstr "Güvenli ve Optimize Edilmiş Kod"
+
+#: inc\getstarted\getstarted.php:255
+msgid "Exclusive Functionalities"
+msgstr "Özel İşlevsellikler"
+
+#: inc\getstarted\getstarted.php:260
+msgid "Section Enable / Disable"
+msgstr "Bölüm Etkinleştir / Devre Dışı Bırak"
+
+#: inc\getstarted\getstarted.php:265
+msgid "Section Google Font Choices"
+msgstr "Bölüm Google Font Seçenekleri"
+
+#: inc\getstarted\getstarted.php:270
+msgid "Gallery"
+msgstr "galeri"
+
+#: inc\getstarted\getstarted.php:275
+msgid "Simple & Mega Menu Option"
+msgstr "Basit ve Mega Menü Seçeneği"
+
+#: inc\getstarted\getstarted.php:280
+msgid "Support to add custom CSS / JS"
+msgstr "Özel CSS / JS eklemek için destek"
+
+#: inc\getstarted\getstarted.php:285
+msgid "Shortcodes"
+msgstr "Kısa kodlar"
+
+#: inc\getstarted\getstarted.php:290
+msgid "Logo & Menu"
+msgstr "Logo ve Menü"
+
+#: inc\getstarted\getstarted.php:295
+msgid "Premium Membership"
+msgstr "Premium Üyelik"
+
+#: inc\getstarted\getstarted.php:300
+msgid "Budget Friendly Value"
+msgstr "Bütçe dostu değer"
+
+#: inc\getstarted\getstarted.php:305
+msgid "Priority Error Fixing"
+msgstr "Öncelikli Hata Düzeltme"
+
+#: inc\getstarted\getstarted.php:310
+msgid "Custom Feature Addition"
+msgstr "Özel Özellik Ekleme"
+
+#: inc\getstarted\getstarted.php:315
+msgid "All Access Theme Pass"
+msgstr "Tüm Erişim Teması Geçişi"
+
+#: inc\getstarted\getstarted.php:320
+msgid "Seamless Customer Support"
+msgstr "Kusursuz Müşteri Desteği"
+
+#: inc\getstarted\getstarted.php:337
+msgid "Pro Version"
+msgstr "Profesyonel sürüm"
+
+#: inc\getstarted\getstarted.php:338
+msgid ""
+"To gain access to extra theme options and more interesting features, upgrade "
+"to pro version"
+msgstr ""
+"Ekstra tema seçeneklerine ve daha ilgi çekici özelliklere erişmek, "
+"profesyonel sürüme yükseltmek için"
+
+#: inc\getstarted\getstarted.php:340
+msgid "Get Pro"
+msgstr "Profesyonel ol"
+
+#: inc\getstarted\getstarted.php:344
+msgid "Pre-purchase Queries"
+msgstr "Satınalma Öncesi Sorgular"
+
+#: inc\getstarted\getstarted.php:345
+msgid "If you have any pre-sale query, we are prepared to resolve it"
+msgstr "Herhangi bir satış öncesi sorunuz varsa, çözüme hazırız"
+
+#: inc\getstarted\getstarted.php:347
+msgid "Question"
+msgstr "Soru"
+
+#: inc\getstarted\getstarted.php:351
+msgid "Child Theme"
+msgstr "Çocuk Teması"
+
+#: inc\getstarted\getstarted.php:352
+msgid ""
+"For theme file customizations, make modifications in the child theme and not "
+"in the main theme file"
+msgstr ""
+"Tema dosyası özelleştirmeleri için, ana tema dosyasında değil, alt temada "
+"değişiklikler yapın."
+
+#: inc\getstarted\getstarted.php:354
+msgid "About Child Theme"
+msgstr "Çocuk Teması Hakkında"
+
+#: inc\getstarted\getstarted.php:359
+msgid "Frequently Asked Questions"
+msgstr "sık sorulan Sorular"
+
+#: inc\getstarted\getstarted.php:360
+msgid ""
+"We have gathered top most, frequently asked questions and answered them for "
+"your easy understanding. We will list down more as we get new challenging "
+"queries. Check back often"
+msgstr ""
+"En sık sorulan soruları topladık ve kolay anlamanız için bunları cevapladık. "
+"Yeni zorlu sorgular aldıkça daha fazlasını listeleyeceğiz. Sık sık kontrol et"
+
+#: inc\getstarted\getstarted.php:362
+msgid "View FAQ"
+msgstr "SSS’yi görüntüle"
+
+#: inc\getstarted\getstarted.php:367
+msgid "Support Queries"
+msgstr "Destek Sorguları"
+
+#: inc\getstarted\getstarted.php:368
+msgid ""
+"If you have any queries after purchase, you can contact us. We are eveready "
+"to help you out"
+msgstr ""
+"Satın aldıktan sonra herhangi bir sorunuz varsa, bizimle iletişime "
+"geçebilirsiniz. Size yardım etmek için her zaman hazırız"
+
+#: inc\getstarted\getstarted.php:370
+msgid "Contact Us"
+msgstr "Bizimle iletişime geçin"
+
+#: inc\logo\logo-resizer.php:19
+msgid "Logo Size"
+msgstr "Logo boyutu"
+
+#: inc\social-widgets\social-icon.php:12
+msgid "Social Icon"
+msgstr "Sosyal İkon"
+
+#: inc\social-widgets\social-icon.php:14
+msgid "Widget for Social icons section"
+msgstr "Sosyal simgeler bölümü için widget"
+
+#: inc\social-widgets\social-icon.php:36 #:
+#: inc\social-widgets\social-icon.php:68
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc\social-widgets\social-icon.php:37 #:
+#: inc\social-widgets\social-icon.php:72
+msgid "Twitter"
+msgstr "heyecan"
+
+#: inc\social-widgets\social-icon.php:38 #:
+#: inc\social-widgets\social-icon.php:76
+msgid "Google"
+msgstr "Google"
+
+#: inc\social-widgets\social-icon.php:39 #:
+#: inc\social-widgets\social-icon.php:80
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc\social-widgets\social-icon.php:40 #:
+#: inc\social-widgets\social-icon.php:88
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc\social-widgets\social-icon.php:41 #:
+#: inc\social-widgets\social-icon.php:92
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc\social-widgets\social-icon.php:42 #:
+#: inc\social-widgets\social-icon.php:84
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc\social-widgets\social-icon.php:43 #:
+#: inc\social-widgets\social-icon.php:96
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc\social-widgets\social-icon.php:64
+msgid "Title"
+msgstr "Başlık"
+
+#: inc\typography\ctypo.php:27
+msgid "Theme Typography"
+msgstr "Tema Tipografisi"
+
+#: inc\typography\ctypo.php:31
+msgid "Content Typography"
+msgstr "İçerik Tipografi"
+
+#: inc\typography\ctypo.php:36
+msgid "Headings Typography"
+msgstr "Başlıklar Tipografi"
+
+#: inc\typography\ctypo.php:41
+msgid "Global Typography"
+msgstr "Global Tipografi"
+
+#: inc\typography\ctypo.php:49 #: inc\typography\ctypo.php:59
+msgid "It will change the complete theme color in one click"
+msgstr "Tek bir tıklamayla tam tema rengini değiştirecek"
+
+#: inc\typography\ctypo.ph:147
+msgid "Paragraph Color"
+msgstr "Paragraf Rengi"
+
+#: inc\typography\ctypo.php:148 #: inc\typography\ctypo.php:154
+msgid "Select how you want your paragraphs to appear"
+msgstr "Paragraflarınızın nasıl görünmesini istediğinizi seçin"
+
+#: inc\typography\ctypo.php:153
+msgid "Paragraph Typography"
+msgstr "Paragraf Tipografi"
+
+#: inc\typography\ctypo.php:174
+msgid "Anchor Tag Color"
+msgstr "Bağlantı Etiketi Rengi"
+
+#: inc\typography\ctypo.php:175 #: inc\typography\ctypo.php:181
+msgid "Select how you want your a tag to appear"
+msgstr "Bir etiketin nasıl görünmesini istediğinizi seçin"
+
+#: inc\typography\ctypo.php:180
+msgid "Anchor Tag Typography"
+msgstr "Çapa Etiketi Tipografi"
+
+#: inc\typography\ctypo.php:201
+msgid "Heading 1 Color"
+msgstr "Başlık 1 Renk"
+
+#: inc\typography\ctypo.php:202 #: inc\typography\ctypo.php:208
+msgid "Select how heading 1 should appear"
+msgstr "1. başlığın nasıl görünmesi gerektiğini seçin"
+
+#: inc\typography\ctypo.php:207 #: inc\typography\ctypo.php:234
+#: inc\typography\ctypo.php:261 inc\typography\ctypo.php:288
+#: inc\typography\ctypo.php:315 inc\typography\ctypo.php:342
+msgid "Heading"
+msgstr "başlık"
+
+#: inc\typography\ctypo.php:228
+msgid "Heading 2 Color"
+msgstr "Başlık 2 Renk"
+
+#: inc\typography\ctypo.php:229 #: inc\typography\ctypo.php:235
+msgid "Select how heading 2 should appear"
+msgstr "2. başlığın nasıl görünmesi gerektiğini seçin"
+
+#: inc\typography\ctypo.php:255
+msgid "Heading 3 Color"
+msgstr "Başlık 3 Renk"
+
+#: inc\typography\ctypo.php:256 #: inc\typography\ctypo.php:262
+msgid "Select how heading 3 should appear"
+msgstr "3. başlığın nasıl görünmesi gerektiğini seçin"
+
+#: inc\typography\ctypo.php:282
+msgid "Heading 4 Color"
+msgstr "Başlık 4 Renk"
+
+#: inc\typography\ctypo.php:283 #: inc\typography\ctypo.php:289
+msgid "Select how heading 4 should appear"
+msgstr "4. bölümün nasıl görünmesi gerektiğini seçin"
+
+#: inc\typography\ctypo.php:309
+msgid "Heading 5 Color"
+msgstr "Başlık 5 Renk"
+
+#: inc\typography\ctypo.php:310 #: inc\typography\ctypo.php:316
+msgid "Select how heading 5 should appear"
+msgstr "5. pozisyonun nasıl görünmesi gerektiğini seçin"
+
+#: inc\typography\ctypo.php:310 #: inc\typography\ctypo.php:336
+msgid "Heading 6 Color"
+msgstr "Başlık 6 Renk"
+
+#: inc\typography\ctypo.php:343
+msgid "Select how heading 6 should appear"
+msgstr "6. pozisyonun nasıl görünmesi gerektiğini seçin"
+
+#: inc\typography\customize\control-typography.php:48
+msgid "Font Color"
+msgstr "Yazı rengi"
+
+#: inc\typography\customize\control-typography.php:49
+msgid "Font Family"
+msgstr "Font ailesi"
+
+#: inc\typography\customize\control-typography.php:50
+msgid "Font Size"
+msgstr "Yazı Boyutu"
+
+#: inc\typography\customize\control-typography.php:51
+msgid "Font Weight"
+msgstr "Yazı Tipi Ağırlığı"
+
+#: inc\typography\customize\control-typography.php:52
+msgid "Font Style"
+msgstr "Yazı stili"
+
+#: inc\typography\customize\control-typography.php:53
+msgid "Line Height"
+msgstr "Satır yüksekliği"
+
+#: inc\typography\customize\control-typography.php:54
+msgid "Letter Spacing"
+msgstr "Harf boşluğu"
+
+#: inc\typography\customize\control-typography.php:247
+msgid "No Fonts weight"
+msgstr "Yazı tipi ağırlığı yok"
+
+#: inc\typography\customize\control-typography.php:248
+msgid "Thin"
+msgstr "İnce"
+
+#: inc\typography\customize\control-typography.php:249
+msgid "Light"
+msgstr "ışık"
+
+#: inc\typography\customize\control-typography.php:250
+#: inc\typography\customize\control-typography.php:268
+msgid "Normal"
+msgstr "Normal"
+
+#: inc\typography\customize\control-typography.php:251
+msgid "Medium"
+msgstr "Orta"
+
+#: inc\typography\customize\control-typography.php:252
+msgid "Bold"
+msgstr "cesur"
+
+#: inc\typography\customize\control-typography.php:253
+msgid "Ultra Bold"
+msgstr "Ultra Kalın"
+
+#: inc\typography\customize\control-typography.php:267
+msgid "No Fonts Style"
+msgstr "Yazı Tipi Stili Yok"
+
+#: inc\typography\customize\control-typography.php:269
+msgid "Italic"
+msgstr "İtalik"
+
+#: inc\typography\customize\control-typography.php:270
+msgid "Oblique"
+msgstr "eğik"
+
+#: page-template\custom-home-page.php:40 #: template-parts\content-audio.php:55
+#: template-parts\content-gallery.php:43 template-parts\content-image.php:36
+#: template-parts\content-video.php:54 template-parts\content.php:39
+#: template-parts\grid-layout.php:26
+msgid "READ MORE"
+msgstr "DAHA FAZLA OKU"
+
+#: page-template\custom-home-page.php:58 #:
+#: template-parts\single-post-layout.php:46
+msgid "Next"
+msgstr "Sonraki"
+
+#: template-parts\content-audio.php:49 #: template-parts\content-gallery.php:37
+#: template-parts\content-image.php:30 template-parts\content-video.php:48
+#: template-parts\content.php:32 template-parts\single-post-layout.php:22
+msgid "% Comments"
+msgstr "% Yorumlar"
+
+#: template-parts\image-layout.php:28
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: template-parts\single-post-layout.php:41
+msgid "Parent post link"
+msgstr "Üst gönderi bağlantısı"
+
+#: template-parts\single-post-layout.php:47
+msgid "Next post"
+msgstr "Sonraki gönderi"
+
+#: template-parts\single-post-layout.php:49 #:
+#: page-template\custom-home-page.php:54
+msgid "Previous"
+msgstr "Önceki"
+
+#: template-parts\single-post-layout.php:50
+msgid "Previous post"
+msgstr "Önceki yazı"
+
+#: template-parts\header\navigation.php:11
+msgid "Menu"
+msgstr "Menü"
+
+#: template-parts\header\top-header.php:28
+msgid "shopping cart"
+msgstr "alışveriş kartı"
+
+#: woocommerce\checkout\form-checkout.php:26
+msgid "You must be logged in to checkout"
+msgstr "Ödeme yapmak için giriş yapmış olmalısınız"
+
+#: woocommerce\checkout\form-checkout.php:52
+msgid "Your order"
+msgstr "Siparişiniz"

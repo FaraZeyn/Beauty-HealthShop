@@ -1,0 +1,1277 @@
+# <!=Copyright (C) 2019 VW Themes
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Fashion Designer 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-20 16:17+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-08-22 16:30+0530\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ../../..\n"
+"Last-Translator: \n"
+"Language: de\n"
+"X-Poedit-SearchPath-0: fashion-designer\n"
+"X-Poedit-SearchPath-1: fashion-designer 2/languages\n"
+"X-Poedit-SearchPathExcluded-0: fashion-designer 2/languages\n"
+
+#: 404.php:13
+#: inc/customizer.php:391
+#: inc/customizer.php:398
+msgid "404 Not Found"
+msgstr "404 Nicht gefunden"
+
+#: 404.php:14
+#: inc/customizer.php:405
+#: inc/customizer.php:412
+msgid 'Looks like you have taken a wrong turn, Dont worry, it happens to the best of us.'
+msgstr "Sieht so aus, als hätten Sie einen falschen Weg eingeschlagen. Keine Sorge, das passiert den Besten von uns"
+
+ #: no-results.php:17
+msgid "Dont worry&hellip it happens to the best of us"
+msgstr "Mach dir keine Sorgen und verdammt, es passiert den Besten von uns"
+
+#: 404.php:16 
+#: no-results.php:19
+#: inc/customizer.php:419
+#: inc/customizer.php:425
+msgid "Go Back"
+msgstr "Geh zurück"
+
+#: archive.php:45 #: archive.php:77 archive.php:107 archive.php:139
+#: archive.php:172 archive.php:207 archive.php:239 image.php:38 image.php:71
+#: image.php:103 image.php:135 image.php:169 image.php:204 image.php:236
+#: index.php:43 index.php:76 index.php:108 index.php:140 index.php:174
+#: index.php:209 index.php:241 search.php:39 search.php:71 search.php:102
+#: search.php:133 search.php:166 search.php:201 search.php:233 single.php:38
+#: single.php:71 single.php:103 single.php:135 single.php:169 single.php:204
+#: single.php:236
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+#: archive.php:46 #: archive.php:78 archive.php:109 archive.php:140
+#: archive.php:173 archive.php:208 archive.php:240 image.php:39 image.php:72
+#: image.php:104 image.php:136 image.php:170 image.php:205 image.php:237
+#: index.php:44 index.php:77 index.php:109 index.php:141 index.php:175
+#: index.php:210 index.php:242 search.php:40 search.php:72 search.php:103
+#: search.php:134 search.php:167 search.php:202 search.php:234 single.php:39
+#: single.php:72 single.php:104 single.php:136 single.php:170 single.php:205
+#: single.php:237
+msgid "Next page"
+msgstr "Nächste Seite"
+
+#: archive.php:47 #: archive.php:79 archive.php:110 archive.php:141
+#: archive.php:174 archive.php:209 archive.php:241 image.php:40 image.php:73
+#: image.php:105 image.php:137 image.php:171 image.php:206 image.php:238
+#: index.php:45 index.php:78 index.php:110 index.php:142 index.php:176
+#: index.php:211 index.php:243 search.php:41 search.php:73 search.php:104
+#: search.php:135 search.php:168 search.php:203 search.php:235 single.php:40
+#: single.php:73 single.php:105 single.php:137 single.php:171 single.php:206
+#: single.php:238
+msgid "Page"
+msgstr "Seite"
+
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo"
+msgstr "Ein Gedanke zu & ldquo;% s & rdquo ;."
+
+#: comments.php:39
+msgid "comments title"
+msgstr "Kommentartitel"
+
+#: comments.php:70
+msgid "Comments are closed"
+msgstr "Kommentarfunktion ist geschlossen"
+
+#: footer.php:11
+msgid "Footer"
+msgstr "Fußzeile"
+
+#: footer.php:58
+msgid "&copy; Copyright 2019"
+msgstr "&Kopieren; Copyright 2019"
+
+#: footer.php:62 #: footer.php:64 footer.php:66
+msgid "Scroll Up"
+msgstr "Hochscrollen"
+
+#: functions.php:66
+msgid "Warm Greetings to you"
+msgstr "Liebe Grüße an dich"
+
+#: functions.php:67
+msgid ""
+"Thank you for choosing Fashion Designer Theme. Would like to have you on our "
+"Welcome page so that you can reap all the benefits of our Fashion Designer "
+"Theme"
+msgstr ""
+"Vielen Dank, dass Sie sich für das Fashion Designer Theme entschieden haben. "
+"Ich möchte Sie auf unserer Willkommensseite begrüßen, damit Sie alle "
+"Vorteile unseres Modedesigner-Themas nutzen können"
+
+#: functions.php:68
+msgid "GET STARTED"
+msgstr "LOSLEGEN"
+
+#: functions.php:75
+msgid "Blog Sidebar"
+msgstr "Blog-Sidebar"
+
+#: functions.php:76
+msgid "Appears on blog page sidebar"
+msgstr "Erscheint auf der Blog-Seitenleiste"
+
+#: functions.php:85
+msgid "Page Sidebar"
+msgstr "Seitenleiste"
+
+#: functions.php:86 #: functions.php:96
+msgid "Appears on page sidebar"
+msgstr "Erscheint auf der Seitenleiste"
+
+#: functions.php:95
+msgid "Sidebar 3"
+msgstr "Seitenleiste 3"
+
+#: functions.php:105 
+msgid "Footer Navigation 1"
+msgstr "Fußzeilennavigation 1"
+
+#: functions.php:106
+msgid "Appears on footer 1"
+msgstr "Erscheint in Fußzeile 1"
+
+#: functions.php:115 
+msgid "Footer Navigation 2"
+msgstr "Fußzeilennavigation 2"
+
+#: functions.php:116
+msgid "Appears on footer 2"
+msgstr "Erscheint in Fußzeile 2"
+
+#: functions.php:125 
+msgid "Footer Navigation 3"
+msgstr "Fußzeilennavigation 3"
+
+#: functions.php:126
+msgid "Appears on footer 3"
+msgstr "Erscheint in Fußzeile 3"
+
+#: functions.php: 135
+msgid "Footer Navigation 4"
+msgstr "Fußzeilennavigation 4"
+
+#: functions.php:136
+msgid "Appears on footer 4"
+msgstr "Erscheint in Fußzeile 4"
+
+#: functions.php:145
+msgid "Shop Page Sidebar"
+msgstr "Shop-Seitenleiste"
+
+#: functions.php:146
+#: functions.php:156
+msgid "Appears on shop page"
+msgstr "Erscheint auf der Shop-Seite"
+
+#: functions.php:155
+msgid "Single Product Sidebar"
+msgstr "Einzelprodukt-Seitenleiste"
+
+#: functions.php:350
+msgid "Fashion WordPress Theme"
+msgstr "Fashion WordPress Theme"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here"
+msgstr "Bereit Deinen ersten Post zu veröffentlichen? Fang hier an"
+
+#: no-results.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords"
+msgstr ""
+"Es tut uns leid, aber es stimmt nichts mit Ihren Suchbegriffen überein. "
+"Bitte versuchen Sie es mit anderen Suchbegriffen erneut"
+
+#: search.php:13
+msgid "Results For: %s"
+msgstr "Ergebnisse für:% s"
+
+#: searchform.php:12 #: searchform.php:14
+msgid "placeholder"
+msgstr "Platzhalter"
+
+#: searchform.php:14
+msgid "submit button"
+msgstr "Schaltfläche \"Senden\""
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr "Archiv"
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr "Meta"
+
+#: inc\customizer.php:28
+msgid "VW Settings"
+msgstr "VW Einstellungen"
+
+#: inc\customizer.php:33
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: inc\customizer.php:38
+msgid "Full Width"
+msgstr "Gesamtbreite"
+
+#: inc\customizer.php:43
+msgid "Width Layouts"
+msgstr "Breitenlayouts"
+
+#: inc\customizer.php:44
+msgid "Here you can change the width layout of Website"
+msgstr "Hier können Sie das Breitenlayout der Website ändern"
+
+#: inc\customizer.php:53 inc\customizer.php:63 #: inc\customizer.php:82
+msgid "Right Sidebar"
+msgstr "rechte Sidebar"
+
+#: inc\customizer.php:58
+msgid "Post Sidebar Layout"
+msgstr "Post-Sidebar-Layout"
+
+#: inc\customizer.php:59
+msgid "Here you can change the sidebar layout for posts"
+msgstr "Hier können Sie das Seitenleistenlayout für Posts ändern"
+
+#: inc\customizer.php:62 #: inc\customizer.php:81
+msgid "Left Sidebar"
+msgstr "Linke Seitenleiste"
+
+#: inc\customizer.php:64 #: inc\customizer.php:83 inc\customizer.php:72
+msgid "One Column"
+msgstr "Eine Spalte"
+
+#: inc\customizer.php:65
+msgid "Three Columns"
+msgstr "Drei Spalten"
+
+#: inc\customizer.php:66
+msgid "Four Columns"
+msgstr "Vier Spalten"
+
+#: inc\customizer.php:67
+msgid "Grid Layout"
+msgstr "Gitterstruktur"
+
+#: inc\customizer.php:77
+msgid "Page Sidebar Layout"
+msgstr "Seitenleistenlayout"
+
+#: inc\customizer.php:78
+msgid "Here you can change the sidebar layout for pages"
+msgstr "Hier können Sie das Seitenleistenlayout für Seiten ändern"
+
+#: inc\customizer.php:94
+msgid 'Shop Page Sidebar'
+msgstr "Shop-Seitenleiste"
+
+#: inc\customizer.php:105
+msgid 'Single Product Sidebar'
+msgstr "Einzelprodukt-Seitenleiste"
+
+#: inc\customizer.php:116
+msgid 'Pre-Loader'
+msgstr "Vorlader"
+
+#: inc\customizer.php:126
+msgid 'Pre-Loader Type'
+msgstr "Typ des Vorladers"
+
+#: inc\customizer.php:129
+msgid 'Two Way'
+msgstr "Zwei Wege"
+
+#: inc\customizer.php:130
+msgid 'Dots'
+msgstr "Punkte"
+
+#: inc\customizer.php:131
+msgid 'Rotate'
+msgstr "Drehen"
+
+#: inc\customizer.php:137
+msgid "Top Bar Settings"
+msgstr "Einstellungen für die obere Leiste"
+
+#: inc\customizer.php:148
+msgid "Sticky Header"
+msgstr "Sticky Header"
+
+#: inc\customizer.php:158
+msgid "Show / Hide Search"
+msgstr "Suche ein- / ausblenden"
+
+#: inc\customizer.php:167
+msgid "Add Phone Text"
+msgstr "Telefontext hinzufügen"
+
+#: inc\customizer.php:169
+msgid "PHONE"
+msgstr "TELEFON"
+
+#: inc\customizer.php:180
+msgid "Add Phone Number"
+msgstr "Telefonnummer hinzufügen"
+
+#: inc\customizer.php:193
+msgid "Add Email Text"
+msgstr "E-Mail-Text hinzufügen"
+
+#: inc\customizer.php:195
+msgid "MAIL"
+msgstr "MAIL"
+
+#: inc\customizer.php:206
+msgid "Add Email Address"
+msgstr "E-Mail-Adresse hinzufügen"
+
+#: inc\customizer.php:216 inc\getstarted\getstarted.php:195 #:
+#: inc\getstarted\getstarted.php:99
+msgid "Slider Settings"
+msgstr "Slider-Einstellungen"
+
+#: inc\customizer.php:226
+msgid "Show / Hide Slider"
+msgstr "Schieberegler ein- / ausblenden"
+
+#: inc\customizer.php:236
+msgid "Select Slider Page"
+msgstr "Wählen Sie Slider Page"
+
+#: inc\customizer.php:238
+msgid "Slider image size (1600 x 700)"
+msgstr "Bildgröße des Schiebereglers (1600 x 700)"
+
+#: inc\customizer.php:246
+msgid "Center"
+msgstr "Center"
+
+#: inc\customizer.php:251
+msgid "Slider Content Layouts"
+msgstr "Slider-Inhaltslayouts"
+
+#: inc\customizer.php:266
+msgid "Slider Image Opacity"
+msgstr "Deckkraft des Schiebereglers"
+
+#: inc\customizer.php:286
+msgid "Fashion Categroy Section"
+msgstr "Fashion Category Section"
+
+#: inc\customizer.php:309
+msgid "Select Category to display Latest Post"
+msgstr "Wählen Sie Kategorie, um den neuesten Beitrag anzuzeigen"
+
+#: inc\customizer.php:310
+msgid "Size of image should be 370 x 270"
+msgstr "Die Bildgröße sollte 370 x 270 betragen"
+
+#: inc\customizer.php:316
+msgid "Blog Post Settings"
+msgstr "Die Bildgröße sollte 370 x 270 betragen"
+
+#: inc\customizer.php:326
+msgid "Post Date"
+msgstr "Nach Datum"
+
+#: inc\customizer.php:336
+msgid "Author"
+msgstr "Autor"
+
+#: inc\customizer.php:346
+msgid "Comments"
+msgstr "Bemerkungen"
+
+#: inc\customizer.php:358
+msgid "Excerpt length"
+msgstr "Auszug Länge"
+
+#: inc\customizer.php:376
+msgid "Blog Layouts"
+msgstr "Blog-Layouts"
+
+#: inc/customizer.php:386
+msgid "404 Page Settings"
+msgstr "404 Seiteneinstellungen"
+
+#: inc/customizer.php:396
+msgid "Add Title"
+msgstr "Titel hinzufügen"
+
+#: inc/customizer.php:410
+msgid "Add Text"
+msgstr "Text hinzufügen"
+
+#: inc/customizer.php:423
+msgid "Add Button Text"
+msgstr "Schaltflächentext hinzufügen"
+
+#: inc\customizer.php:443
+msgid "Customize Home Page Settings"
+msgstr "Anpassen der Homepage-Einstellungen"
+
+#: inc\customizer.php:446
+msgid ""
+"First select static page in homepage setting for front page.Below given edit "
+"button is to customize Home Page. Just click on the edit option, add "
+"whatever elements you want to include in the homepage, save the changes and "
+"you are good to go"
+msgstr ""
+"Wählen Sie zunächst die statische Seite in der Homepage-Einstellung für die "
+"Startseite aus. Die unten angegebene Schaltfläche zum Bearbeiten dient zum "
+"Anpassen der Startseite. Klicken Sie einfach auf die Bearbeitungsoption, "
+"fügen Sie die gewünschten Elemente zur Startseite hinzu, speichern Sie die "
+"Änderungen und schon kann es losgehen"
+
+#: inc\customizer.php:450 
+#: template-parts\image-layout.php:33
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: inc\customizer.php:455
+msgid "Footer Settings"
+msgstr "Fußzeileneinstellungen"
+
+#: inc\customizer.php:464
+msgid "Copyright Text"
+msgstr "Copyright-Text"
+
+#: inc\customizer.php:466
+msgid "Copyright 2019"
+msgstr "Copyright 2019"
+
+#: inc\customizer.php:478
+msgid "Show / Hide Scroll To Top"
+msgstr "Bildlauf nach oben ein- / ausblenden"
+
+#: inc\customizer.php:483
+msgid "Right"
+msgstr "Recht"
+
+#: inc\customizer.php:488
+msgid "Scroll To Top"
+msgstr "Scrolle nach oben"
+
+#: inc\customizer.php:573
+msgid "Fashion Designer Pro"
+msgstr "Modedesigner Pro"
+
+#: inc\customizer.php:574
+msgid "UPGRADE PRO"
+msgstr "UPGRADE PRO"
+
+#: inc\customizer.php:580 
+#: inc\getstarted\getstarted.php:70
+msgid "DOCUMENTATION"
+msgstr "DOKUMENTATION"
+
+#: inc\customizer.php:581
+msgid "DOCS"
+msgstr "DOCS"
+
+#: inc\getstarted\getstarted.php:5
+msgid "About Fashion Designer"
+msgstr "Über Modedesigner"
+
+#: inc\getstarted\getstarted.php:38
+msgid "Welcome to Fashion Designer Theme"
+msgstr "Willkommen bei Fashion Designer Theme"
+
+#: inc\getstarted\getstarted.php:39
+msgid ""
+"All our WordPress themes are modern, minimalist, 100% responsive, seo-"
+"friendly,feature-rich, and multipurpose that best suit designers, bloggers "
+"and other professionals who are working in the creative fields"
+msgstr ""
+"Alle unsere WordPress-Themes sind modern, minimalistisch, 100% "
+"reaktionsschnell, seofreundlich, funktionsreich und vielseitig und eignen "
+"sich am besten für Designer, Blogger und andere Fachleute, die in den "
+"kreativen Bereichen arbeiten"
+
+#: inc\getstarted\getstarted.php:46
+msgid "Buy Fashion Designer at 20% Discoun"
+msgstr "Kaufen Sie Modedesigner mit 20% Rabatt"
+
+#: inc\getstarted\getstarted.php:47
+msgid "vwpro20"
+msgstr "vwpro20"
+
+#: inc\getstarted\getstarted.php:49 #: inc\getstarted\getstarted.php:327
+msgid "Upgrade to Pro"
+msgstr "Upgrade auf Pro"
+
+#: inc\getstarted\getstarted.php:56
+msgid "Getting Started"
+msgstr "Beginnen"
+
+#: inc\getstarted\getstarted.php:57
+msgid "Get Premium"
+msgstr "Premium bekommen"
+
+#: inc\getstarted\getstarted.php:58
+msgid "Support"
+msgstr "Unterstützung"
+
+#: inc\getstarted\getstarted.php:63
+msgid "Lite Theme Information"
+msgstr "Informationen zum Lite-Thema"
+
+#: inc\getstarted\getstarted.php:65
+msgid ""
+"Fashion designer is a theme of premium category solely crafted for the "
+"fashion designers or fashion stylists or people who are associated with the "
+"business related to fashion or associated areas. It is a multipurpose, "
+"minimal and elegant theme making it a preferable one for the make-up "
+"artists, beauty salon operators well as personal designers. Being "
+"sophisticated, retina ready and user-friendly and accompanied with "
+"testimonial section, personalization options plus Bootstrap and CTA, this "
+"WordPress theme of premium level is good for the cosmetic boutique business "
+"and for the makeup salon as well as hair stylists. Fashion Designer  "
+"WordPress theme is social media and SEO friendly and apart from that, the "
+"theme is accompanied with optimised codes, clean codes and has the faster "
+"page load time. Fashion designer is also good for nail salon, visage salon, "
+"makeup studio, beauty blog, glamour and others. Since it is mobile friendly, "
+"responsive as well as translation ready, this premium wp theme can also be "
+"used to create blogs related to fashion, beauty, lifestyle, make up, gossip "
+"or food or journal blog and there is no requirement to write a single line "
+"of code. Fashion designer has the potential to create an exotic feminine "
+"fashion blog and is also a preferable one for bloggers, newspapers, writers "
+"or journalists"
+msgstr ""
+"Modedesigner ist ein Thema der Premium-Kategorie, das ausschließlich für "
+"Modedesigner oder Modestilisten oder Personen bestimmt ist, die mit dem "
+"Geschäft in Verbindung stehen, das mit Mode oder verwandten Bereichen in "
+"Verbindung steht. Es ist ein vielseitiges, minimalistisches und elegantes "
+"Thema, das es zu einem bevorzugten Thema für Visagisten, Betreiber von "
+"Schönheitssalons und persönliche Designer macht. Dieses WordPress-Theme auf "
+"Premium-Niveau ist raffiniert, für die Netzhaut vorbereitet und "
+"benutzerfreundlich und wird von Testimonials, Personalisierungsoptionen "
+"sowie Bootstrap und CTA begleitet. Es eignet sich sowohl für das "
+"Kosmetikgeschäft als auch für den Make-up-Salon sowie für Friseure. Das "
+"WordPress-Theme des Modedesigners ist Social Media- und SEO-freundlich. "
+"Außerdem enthält es optimierte Codes, saubere Codes und die kürzere Ladezeit "
+"für Seiten. Modedesigner ist auch gut für Nagelstudio, Kosmetikstudio, Make-"
+"up-Studio, Beauty-Blog, Glamour und andere. Da dieses Premium-WP-Theme "
+"sowohl für Mobilgeräte als auch für die Übersetzung geeignet ist, kann es "
+"auch zum Erstellen von Blogs verwendet werden, die sich auf Mode, Schönheit, "
+"Lifestyle, Make-up, Klatsch oder Essen beziehen. Es ist nicht erforderlich, "
+"ein einziges Blog zu verfassen Codezeile. Die Modedesignerin hat das "
+"Potenzial, einen exotischen Blog für feminine Mode zu erstellen, und ist "
+"auch für Blogger, Zeitungen, Schriftsteller oder Journalisten zu bevorzugen"
+
+#: inc\getstarted\getstarted.php:67
+msgid "Theme Documentation"
+msgstr "Themendokumentation"
+
+#: inc\getstarted\getstarted.php:68
+msgid ""
+"If you need any assistance regarding setting up and configuring the Theme, "
+"our documentation is there"
+msgstr ""
+"Wenn Sie Hilfe beim Einrichten und Konfigurieren des Themas benötigen, "
+"finden Sie unsere Dokumentation"
+
+#: inc\getstarted\getstarted.php:73
+msgid "Theme Customizer"
+msgstr "Theme Customizer"
+
+#: inc\getstarted\getstarted.php:74
+msgid "To begin customizing your website, start by clicking \"Customize\""
+msgstr ""
+"Um mit dem Anpassen Ihrer Website zu beginnen, klicken Sie zunächst auf "
+"\"Anpassen\"."
+
+#: inc\getstarted\getstarted.php:76
+msgid "Customizing"
+msgstr "Anpassen"
+
+#: inc\getstarted\getstarted.php:79
+msgid "Having Trouble, Need Support"
+msgstr "Probleme haben, brauchen Unterstützung"
+
+#: inc\getstarted\getstarted.php:80
+msgid ""
+"Our dedicated team is well prepared to help you out in case of queries and "
+"doubts regarding our theme"
+msgstr ""
+"Unser engagiertes Team ist gut vorbereitet, um Ihnen bei Fragen und Zweifeln "
+"zu unserem Thema behilflich zu sein"
+
+#: inc\getstarted\getstarted.php:82
+msgid "Support Forum"
+msgstr "Hilfeforum"
+
+#: inc\getstarted\getstarted.php:85
+msgid "Reviews & Testimonials"
+msgstr "Bewertungen & Testimonials"
+
+#: inc\getstarted\getstarted.php:86
+msgid ""
+"All the features and aspects of this WordPress Theme are phenomenal. I\"d "
+"recommend this theme to all"
+msgstr ""
+"Alle Funktionen und Aspekte dieses WordPress-Themas sind phänomenal. Ich "
+"würde dieses Thema allen empfehlen"
+
+#: inc\getstarted\getstarted.php:88
+msgid "Reviews"
+msgstr "Bewertungen"
+
+#: inc\getstarted\getstarted.php:91
+msgid "Link to customizer"
+msgstr "Link zum Customizer"
+
+#: inc\getstarted\getstarted.php:96
+msgid "Upload your logo"
+msgstr "Laden Sie Ihr Logo hoch"
+
+#: inc\getstarted\getstarted.php:104
+msgid "Customize Home Page"
+msgstr "Homepage anpassen"
+
+#: inc\getstarted\getstarted.php:107
+msgid "Fashion Category"
+msgstr "Modekategorie"
+
+#: inc\getstarted\getstarted.php:112
+msgid "Menus"
+msgstr "Menüs"
+
+#: inc\getstarted\getstarted.php:115
+msgid "Footer Widget"
+msgstr "Fußzeilen-Widget"
+
+#: inc\getstarted\getstarted.php:121
+msgid "Blog Layout"
+msgstr "Blog-Layout"
+
+#: inc\getstarted\getstarted.php:124
+msgid "Footer Text"
+msgstr "Fusszeile"
+
+#: inc\getstarted\getstarted.php:131
+msgid "How to set up Home Page Template"
+msgstr "So richten Sie die Homepage-Vorlage ein"
+
+#: inc\getstarted\getstarted.php:133
+msgid "Follow these instructions to setup Home page"
+msgstr "Befolgen Sie diese Anweisungen, um die Startseite einzurichten"
+
+#: inc\getstarted\getstarted.php:135
+msgid "Create a Page to set template:  Go to"
+msgstr "Erstellen Sie eine Seite, um die Vorlage festzulegen: Wechseln Sie zu"
+
+#: inc\getstarted\getstarted.php:136
+msgid "Dashboard &gt;&gt; Pages &gt;&gt; Add New Page"
+msgstr "Dashboard & gt; & gt; Seiten & gt; & gt; Neue Seite hinzufügen"
+
+#: inc\getstarted\getstarted.php:137
+msgid ""
+"Label it \"home\" or anything as you wish. Then select template \"home-page"
+"\" from template dropdown"
+msgstr ""
+"Beschriften Sie es \"nach Hause\" oder irgendetwas, wie Sie möchten. Wählen "
+"Sie dann in der Vorlagen-Dropdown-Liste die Vorlage \"Homepage\" aus"
+
+#: inc\getstarted\getstarted.php:139
+msgid "Go to"
+msgstr "Gehe zu"
+
+#: inc\getstarted\getstarted.php:140
+msgid ""
+"Settings -&gt; Reading --&gt; Set the front page display static page to home "
+"page"
+msgstr ""
+"Einstellungen - & gt; Lesen - & gt; Stellen Sie die statische Startseite für "
+"die Anzeige der Startseite ein"
+
+#: inc\getstarted\getstarted.php:142
+msgid ""
+"Once you are done with this, you can see all the demo content on front page"
+msgstr ""
+"Sobald Sie damit fertig sind, können Sie den gesamten Demo-Inhalt auf der "
+"Startseite sehen"
+
+#: inc\getstarted\getstarted.php:148
+msgid "Premium Theme Information"
+msgstr "Premium Theme Information"
+
+#: inc\getstarted\getstarted.php:151
+msgid ""
+"Fashion designer WordPress theme is creative as well as sharp and is pliable "
+"and responsive making it a preferable choice for the fashion industry as "
+"well as fashion designers or the startups who want to excel in the fashion "
+"related business. With this theme, you are in a position to craft the "
+"websites of professional quality because of certain mind-blowing features "
+"like customization and personalization options, retina ready, Bootstrap, "
+"CTA, translation readiness, clean code, testimonial section and much more-"
+"all making this theme good for the makeup artists as well as personal "
+"designers. Fashion designer WP theme is good for cosmetics boutique, makeup "
+"salon, hairstylist, fashion blog, hairdresser, nail salon, visage salon, "
+"makeup studio, beauty blog, glamour, and others. Since this WP theme is "
+"clean and animated, it can be used to create fashion, lifestyle, beauty, "
+"makeup, gossip, food or a journal blog without writing a single line of "
+"code. Since it is luxurious with shortcodes, feminine fashion blog can be "
+"created as well"
+msgstr ""
+"Das WordPress-Theme des Modedesigners ist sowohl kreativ als auch scharf, "
+"biegsam und reaktionsschnell. Dies macht es zu einer bevorzugten Wahl sowohl "
+"für die Modebranche als auch für Modedesigner oder Start-ups, die sich im "
+"modebezogenen Geschäft auszeichnen möchten. Mit diesem Thema sind Sie in der "
+"Lage, Websites in professioneller Qualität zu erstellen, da bestimmte "
+"Funktionen wie Anpassungs- und Personalisierungsoptionen, Netzhaut-Ready, "
+"Bootstrap, CTA, Übersetzungsbereitschaft, sauberer Code, Testimonial-Bereich "
+"und vieles mehr für Sie relevant sind Dieses Thema eignet sich sowohl für "
+"Maskenbildner als auch für persönliche Designer. Das WP-Thema des "
+"Modedesigners ist gut für Kosmetik-Boutiquen, Make-up-Salons, Friseure, "
+"Modeblogs, Friseure, Nagelstudios, Kosmetikstudios, Make-up-Studios, Beauty-"
+"Blogs, Glamour und andere. Da dieses WP-Thema klar und animiert ist, kann es "
+"verwendet werden, um Mode, Lifestyle, Schönheit, Make-up, Klatsch, Essen "
+"oder ein Tagebuch-Blog zu erstellen, ohne eine einzige Codezeile zu "
+"schreiben. Da es mit Shortcodes luxuriös ist, kann auch ein Blog für "
+"feminine Mode erstellt werden"
+
+#: inc\getstarted\getstarted.php:153
+msgid "Live Demo"
+msgstr "Live-Demo"
+
+#: inc\getstarted\getstarted.php:154
+msgid "Buy Pro"
+msgstr "Kaufen Sie Pro"
+
+#: inc\getstarted\getstarted.php:155
+msgid "Pro Documentation"
+msgstr "Pro-Dokumentation"
+
+#: inc\getstarted\getstarted.php:162
+msgid "Theme Features"
+msgstr "Theme-Funktionen"
+
+#: inc\getstarted\getstarted.php:169
+msgid "Free Themes"
+msgstr "Kostenlose Themes"
+
+#: inc\getstarted\getstarted.php:170
+msgid "Premium Themes"
+msgstr "Premium-Themen"
+
+#: inc\getstarted\getstarted.php:175
+msgid "Theme Customization"
+msgstr "Theme-Anpassung"
+
+#: inc\getstarted\getstarted.php:180
+msgid "Responsive Design"
+msgstr "Sich anpassendes Design"
+
+#: inc\getstarted\getstarted.php:185
+msgid "Logo Upload"
+msgstr "Logo hochladen"
+
+#: inc\getstarted\getstarted.php:190
+msgid "Social Media Links"
+msgstr "Social Media Links"
+
+#: inc\getstarted\getstarted.php:200
+msgid "Number of Slides"
+msgstr "Anzahl der Folien"
+
+#: inc\getstarted\getstarted.php:202
+msgid "Unlimited"
+msgstr "Unbegrenzt"
+
+#: inc\getstarted\getstarted.php:205
+msgid "Template Pages"
+msgstr "Vorlagenseiten"
+
+#: inc\getstarted\getstarted.php:210
+msgid "Home Page Template"
+msgstr "Homepage-Vorlage"
+
+#: inc\getstarted\getstarted.php:215
+msgid "Contact us Page Template"
+msgstr "Kontaktieren Sie uns Seitenvorlage"
+
+#: inc\getstarted\getstarted.php:220
+msgid "Blog Templates & Layout"
+msgstr "Blog Vorlagen und Layout"
+
+#: inc\getstarted\getstarted.php:222
+msgid "3(Full width/Left/Right Sidebar)"
+msgstr "3 (Volle Breite / Linke / Rechte Seitenleiste)"
+
+#: inc\getstarted\getstarted.php:225
+msgid "Page Templates & Layout"
+msgstr "Seitenvorlagen und Layout"
+
+#: inc\getstarted\getstarted.php:227
+msgid "2(Left/Right Sidebar)"
+msgstr "2 (linke / rechte Seitenleiste)"
+
+#: inc\getstarted\getstarted.php:230
+msgid "Full Documentation"
+msgstr "Vollständige Dokumentation"
+
+#: inc\getstarted\getstarted.php:235
+msgid "Latest WordPress Compatibility"
+msgstr "Neueste WordPress-Kompatibilität"
+
+#: inc\getstarted\getstarted.php:240
+msgid "Woo-Commerce Compatibility"
+msgstr "Woo-Commerce-Kompatibilität"
+
+#: inc\getstarted\getstarted.php:245
+msgid "Support 3rd Party Plugins"
+msgstr "Unterstützt Plugins von Drittanbietern"
+
+#: inc\getstarted\getstarted.php:250
+msgid "Secure and Optimized Code"
+msgstr "Sicherer und optimierter Codevvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv"
+
+#: inc\getstarted\getstarted.php:255
+msgid "Exclusive Functionalities"
+msgstr "Exklusive Funktionalitäten"
+
+#: inc\getstarted\getstarted.php:260
+msgid "Section Enable / Disable"
+msgstr "Abschnitt Aktivieren / Deaktivieren"
+
+#: inc\getstarted\getstarted.php:265
+msgid "Section Google Font Choices"
+msgstr "Abschnitt Google Font Choices"
+
+#: inc\getstarted\getstarted.php:270
+msgid "Gallery"
+msgstr "Galerie"
+
+#: inc\getstarted\getstarted.php:275
+msgid "Simple & Mega Menu Option"
+msgstr "Einfache & Mega-Menüoption"
+
+#: inc\getstarted\getstarted.php:280
+msgid "Support to add custom CSS / JS"
+msgstr "Unterstützung für das Hinzufügen von benutzerdefiniertem CSS / JS"
+
+#: inc\getstarted\getstarted.php:285
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: inc\getstarted\getstarted.php:290
+msgid "Logo & Menu"
+msgstr "Logo & Menü"
+
+#: inc\getstarted\getstarted.php:295
+msgid "Premium Membership"
+msgstr "Premium Mitgliedschaft"
+
+#: inc\getstarted\getstarted.php:300
+msgid "Budget Friendly Value"
+msgstr "Budget Friendly Value"
+
+#: inc\getstarted\getstarted.php:305
+msgid "Priority Error Fixing"
+msgstr "Vorrangige Fehlerbehebung"
+
+#: inc\getstarted\getstarted.php:310
+msgid "Custom Feature Addition"
+msgstr "Hinzufügen von benutzerdefinierten Funktionen"
+
+#: inc\getstarted\getstarted.php:315
+msgid "All Access Theme Pass"
+msgstr "All-Access-Themenpass"
+
+#: inc\getstarted\getstarted.php:320
+msgid "Seamless Customer Support"
+msgstr "Nahtlose Kundenbetreuung"
+
+#: inc\getstarted\getstarted.php:337
+msgid "Pro Version"
+msgstr "Pro Version"
+
+#: inc\getstarted\getstarted.php:338
+msgid ""
+"To gain access to extra theme options and more interesting features, upgrade "
+"to pro version"
+msgstr ""
+"Aktualisieren Sie auf die Pro-Version, um Zugriff auf zusätzliche "
+"Themenoptionen und weitere interessante Funktionen zu erhalten"
+
+#: inc\getstarted\getstarted.php:340
+msgid "Get Pro"
+msgstr "Werde professoinell"
+
+#: inc\getstarted\getstarted.php:344
+msgid "Pre-purchase Queries"
+msgstr "Fragen vor dem Kauf"
+
+#: inc\getstarted\getstarted.php:345
+msgid "If you have any pre-sale query, we are prepared to resolve it"
+msgstr ""
+"Wenn Sie eine Vorverkaufsanfrage haben, sind wir bereit, diese zu klären"
+
+#: inc\getstarted\getstarted.php:347
+msgid "Question"
+msgstr "Frage"
+
+#: inc\getstarted\getstarted.php:351
+msgid "Child Theme"
+msgstr "Kinderthema"
+
+#: inc\getstarted\getstarted.php:352
+msgid ""
+"For theme file customizations, make modifications in the child theme and not "
+"in the main theme file"
+msgstr ""
+"Nehmen Sie für Anpassungen der Designdatei Änderungen im untergeordneten "
+"Design und nicht in der Hauptdesigndatei vor"
+
+#: inc\getstarted\getstarted.php:354
+msgid "About Child Theme"
+msgstr "Über Kinderthema"
+
+#: inc\getstarted\getstarted.php:359
+msgid "Frequently Asked Questions"
+msgstr "Häufig gestellte Fragen"
+
+#: inc\getstarted\getstarted.php:360
+msgid ""
+"We have gathered top most, frequently asked questions and answered them for "
+"your easy understanding. We will list down more as we get new challenging "
+"queries. Check back often"
+msgstr ""
+"Wir haben die häufigsten und am häufigsten gestellten Fragen "
+"zusammengestellt und beantwortet, um Ihnen das Verständnis zu erleichtern. "
+"Wir werden mehr auflisten, wenn wir neue herausfordernde Fragen bekommen. "
+"Schau öfter mal vorbei"
+
+#: inc\getstarted\getstarted.php:362
+msgid "View FAQ"
+msgstr "FAQ anzeigen"
+
+#: inc\getstarted\getstarted.php:367
+msgid "Support Queries"
+msgstr "Support-Anfragen"
+
+#: inc\getstarted\getstarted.php:368
+msgid ""
+"If you have any queries after purchase, you can contact us. We are eveready "
+"to help you out"
+msgstr ""
+"Wenn Sie nach dem Kauf Fragen haben, können Sie uns kontaktieren. Wir helfen "
+"Ihnen gerne weiter"
+
+#: inc\getstarted\getstarted.php:370
+msgid "Contact Us"
+msgstr "Kontaktiere uns"
+
+#: inc\logo\logo-resizer.php:19
+msgid "Logo Size"
+msgstr "Logo Größe"
+
+#: inc\social-widgets\social-icon.php:12
+msgid "Social Icon"
+msgstr "Soziale Ikone"
+
+#: inc\social-widgets\social-icon.php:14
+msgid "Widget for Social icons section"
+msgstr "Widget für den Bereich Social Icons"
+
+#: inc\social-widgets\social-icon.php:36 #:
+#: inc\social-widgets\social-icon.php:68
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc\social-widgets\social-icon.php:37 #:
+#: inc\social-widgets\social-icon.php:72
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc\social-widgets\social-icon.php:38 #:
+#: inc\social-widgets\social-icon.php:76
+msgid "Google"
+msgstr "Google"
+
+#: inc\social-widgets\social-icon.php:39 #:
+#: inc\social-widgets\social-icon.php:80
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc\social-widgets\social-icon.php:40 #:
+#: inc\social-widgets\social-icon.php:88
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc\social-widgets\social-icon.php:41 #:
+#: inc\social-widgets\social-icon.php:92
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc\social-widgets\social-icon.php:42 #:
+#: inc\social-widgets\social-icon.php:84
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc\social-widgets\social-icon.php:43 #:
+#: inc\social-widgets\social-icon.php:96
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc\social-widgets\social-icon.php:64
+msgid "Title"
+msgstr "Titel"
+
+#: inc\typography\ctypo.php:27
+msgid "Theme Typography"
+msgstr "Thema Typografie"
+
+#: inc\typography\ctypo.php:31
+msgid "Content Typography"
+msgstr "Inhaltstypografie"
+
+#: inc\typography\ctypo.php:36
+msgid "Headings Typography"
+msgstr "Überschriften Typografie"
+
+#: inc\typography\ctypo.php:41
+msgid "Global Typography"
+msgstr "Globale Typografie"
+
+#: inc\typography\ctypo.php:49 #: inc\typography\ctypo.php:59
+msgid "It will change the complete theme color in one click"
+msgstr "Mit einem Klick wird die gesamte Designfarbe geändert"
+
+#: inc\typography\ctypo.ph:147
+msgid "Paragraph Color"
+msgstr "Absatzfarbe"
+
+#: inc\typography\ctypo.php:148 #: inc\typography\ctypo.php:154
+msgid "Select how you want your paragraphs to appear"
+msgstr "Wählen Sie aus, wie Ihre Absätze angezeigt werden sollen"
+
+#: inc\typography\ctypo.php:153
+msgid "Paragraph Typography"
+msgstr "Paragraph Typography"
+
+#: inc\typography\ctypo.php:174
+msgid "Anchor Tag Color"
+msgstr "Anchor-Tag-Farbe"
+
+#: inc\typography\ctypo.php:175 #: inc\typography\ctypo.php:181
+msgid "Select how you want your a tag to appear"
+msgstr "Wählen Sie aus, wie Ihr Tag angezeigt werden soll"
+
+#: inc\typography\ctypo.php:180
+msgid "Anchor Tag Typography"
+msgstr "Ankertag-Typografie"
+
+#: inc\typography\ctypo.php:201
+msgid "Heading 1 Color"
+msgstr "Überschrift 1 Farbe"
+
+#: inc\typography\ctypo.php:202 #: inc\typography\ctypo.php:208
+msgid "Select how heading 1 should appear"
+msgstr "Wählen Sie aus, wie Überschrift 1 angezeigt werden soll"
+
+#: inc\typography\ctypo.php:207 #: inc\typography\ctypo.php:234
+#: inc\typography\ctypo.php:261 inc\typography\ctypo.php:288
+#: inc\typography\ctypo.php:315 inc\typography\ctypo.php:342
+msgid "Heading"
+msgstr "Überschrift"
+
+#: inc\typography\ctypo.php:228
+msgid "Heading 2 Color"
+msgstr "Überschrift 2 Farbe"
+
+#: inc\typography\ctypo.php:229 #: inc\typography\ctypo.php:235
+msgid "Select how heading 2 should appear"
+msgstr "Wählen Sie aus, wie Überschrift 2 angezeigt werden soll"
+
+#: inc\typography\ctypo.php:255
+msgid "Heading 3 Color"
+msgstr "Überschrift 3 Farbe"
+
+#: inc\typography\ctypo.php:256 #: inc\typography\ctypo.php:262
+msgid "Select how heading 3 should appear"
+msgstr "Wählen Sie aus, wie Überschrift 3 angezeigt werden soll"
+
+#: inc\typography\ctypo.php:282
+msgid "Heading 4 Color"
+msgstr "Überschrift 4 Farbe"
+
+#: inc\typography\ctypo.php:283 #: inc\typography\ctypo.php:289
+msgid "Select how heading 4 should appear"
+msgstr "Wählen Sie aus, wie Überschrift 4 angezeigt werden soll"
+
+#: inc\typography\ctypo.php:309
+msgid "Heading 5 Color"
+msgstr "Überschrift 5 Farbe"
+
+#: inc\typography\ctypo.php:310 #: inc\typography\ctypo.php:316
+msgid "Select how heading 5 should appear"
+msgstr "Wählen Sie aus, wie Überschrift 5 angezeigt werden soll"
+
+#: inc\typography\ctypo.php:310 #: inc\typography\ctypo.php:336
+msgid "Heading 6 Color"
+msgstr "Überschrift 6 Farbe"
+
+#: inc\typography\ctypo.php:343
+msgid "Select how heading 6 should appear"
+msgstr "Wählen Sie aus, wie Überschrift 6 angezeigt werden soll"
+
+#: inc\typography\customize\control-typography.php:48
+msgid "Font Color"
+msgstr "Schriftfarbe"
+
+#: inc\typography\customize\control-typography.php:49
+msgid "Font Family"
+msgstr "Schriftfamilie"
+
+#: inc\typography\customize\control-typography.php:50
+msgid "Font Size"
+msgstr "Schriftgröße"
+
+#: inc\typography\customize\control-typography.php:51
+msgid "Font Weight"
+msgstr "Schriftgröße"
+
+#: inc\typography\customize\control-typography.php:52
+msgid "Font Style"
+msgstr "Schriftstil"
+
+#: inc\typography\customize\control-typography.php:53
+msgid "Line Height"
+msgstr "Zeilenhöhe"
+
+#: inc\typography\customize\control-typography.php:54
+msgid "Letter Spacing"
+msgstr "Buchstaben-Abstand"
+
+#: inc\typography\customize\control-typography.php:247
+msgid "No Fonts weight"
+msgstr "Kein Schriftgewicht"
+
+#: inc\typography\customize\control-typography.php:248
+msgid "Thin"
+msgstr "Dünn"
+
+#: inc\typography\customize\control-typography.php:249
+msgid "Light"
+msgstr "Licht"
+
+#: inc\typography\customize\control-typography.php:250
+#: inc\typography\customize\control-typography.php:268
+msgid "Normal"
+msgstr "Normal"
+
+#: inc\typography\customize\control-typography.php:251
+msgid "Medium"
+msgstr "Mittel"
+
+#: inc\typography\customize\control-typography.php:252
+msgid "Bold"
+msgstr "Fett gedruckt"
+
+#: inc\typography\customize\control-typography.php:253
+msgid "Ultra Bold"
+msgstr "Ultra Fett"
+
+#: inc\typography\customize\control-typography.php:267
+msgid "No Fonts Style"
+msgstr "Kein Schriftstil"
+
+#: inc\typography\customize\control-typography.php:269
+msgid "Italic"
+msgstr "Kursiv"
+
+#: inc\typography\customize\control-typography.php:270
+msgid "Oblique"
+msgstr "Schräg"
+
+#: page-template\custom-home-page.php:40 
+#: template-parts\content-audio.php:55
+#: template-parts\content-gallery.php:43 
+#: template-parts\content-image.php:44
+#: template-parts\content-image.php:71
+#: template-parts\content-image.php:97
+#: template-parts\content-video.php:54 
+#: template-parts\content.php:44
+#: template-parts\content.php:71
+#: template-parts\content.php:97
+#: template-parts\grid-layout.php:26
+msgid "READ MORE"
+msgstr "WEITERLESEN"
+
+#: page-template\custom-home-page.php:58 #:
+#: template-parts\single-post-layout.php:46
+msgid "Next"
+msgstr "Nächster"
+
+#: template-parts\content-audio.php:49 #: template-parts\content-gallery.php:37
+#: template-parts\content-image.php:30 template-parts\content-video.php:48
+#: template-parts\content.php:32 template-parts\single-post-layout.php:22
+msgid "% Comments"
+msgstr "% Bemerkungen"
+
+#: template-parts\image-layout.php:28
+msgid "Pages"
+msgstr "Seiten"
+
+#: template-parts\single-post-layout.php:41
+msgid "Parent post link"
+msgstr "Übergeordneter Beitragslink"
+
+#: template-parts\single-post-layout.php:47
+msgid "Next post"
+msgstr "Nächster Beitrag"
+
+#: template-parts\single-post-layout.php:49 #:
+#: page-template\custom-home-page.php:54
+msgid "Previous"
+msgstr "Bisherige"
+
+#: template-parts\single-post-layout.php:50
+msgid "Previous post"
+msgstr "Vorherigen Post"
+
+#: template-parts\header\navigation.php:11
+msgid "Menu"
+msgstr "Speisekarte"
+
+#: template-parts\header\top-header.php:28
+msgid "shopping cart"
+msgstr "Einkaufswagen"
+
+#: woocommerce\checkout\form-checkout.php:26
+msgid "You must be logged in to checkout"
+msgstr "Sie müssen angemeldet sein, um zur Kasse zu gehen"
+
+#: woocommerce\checkout\form-checkout.php:52
+msgid "Your order"
+msgstr "Deine Bestellung"

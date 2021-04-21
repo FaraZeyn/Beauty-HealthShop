@@ -1,0 +1,66 @@
+.main-banner-section h1, .category-section h2{
+  font-family: 'Playfair Display', serif !important;
+  font-weight: 900;
+}
+/*Banner section*/
+.main-banner-section .block-editor-rich-text__editable.wp-block-button__link, .main-banner-section h3{
+  font-family: 'ABeeZee', sans-serif !important;
+}
+.main-banner-section .block-editor-rich-text__editable.wp-block-button__link{
+  border: solid 2px #fff !important;
+  background: transparent !important;
+  color: #fff !important;
+  font-size: 15px;
+  font-weight: 700;
+}
+.main-banner-section .block-editor-rich-text__editable.wp-block-button__link:hover{
+  border: solid 2px #d1b266 !important;
+  background: #d1b266 !important;
+}
+/*Fashion Category section*/
+.category-section {
+  position: relative;
+  margin-top: -5em;
+  z-index: 9;
+  padding: 25px;
+}
+.category-section .category-outer-box{
+  position: relative;
+  /*overflow: hidden;*/
+  margin-bottom: 15px;
+}
+.category-section .inner-cat-box{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 10px 20px;
+  background-image: linear-gradient( transparent, rgb(000, 000, 000, 0.9));
+  left: 0;
+  z-index: 1;
+  margin-bottom: 0 !important;
+}
+.category-section figure{
+  margin: 0;
+  padding: 0;
+}
+.category-section .block-editor-rich-text__editable.wp-block-button__link span {
+    display: none;
+}
+.category-section .wp-block-buttons.block-editor-block-list__block.wp-block.block-editor-block-list__layout{
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+}
+.category-section .wp-block-button{
+  margin: 0 !important;
+}
+.category-section .block-editor-rich-text__editable.wp-block-button__link{
+  background: none !important;
+  padding: 0 20px !important;
+}
+.category-section .block-editor-rich-text__editable.wp-block-button__link:after{
+  content: "\f30b";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  color: #fff;
+  font-size: 30px;
+}

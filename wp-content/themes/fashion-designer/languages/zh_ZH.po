@@ -1,0 +1,1226 @@
+# <!=Copyright (C) 2019 VW Themes
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Fashion Designer 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-20 16:17+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-08-22 14:59+0530\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ../../..\n"
+"Last-Translator: \n"
+"Language: zh\n"
+"X-Poedit-SearchPath-0: fashion-designer\n"
+"X-Poedit-SearchPath-1: fashion-designer 2/languages\n"
+"X-Poedit-SearchPathExcluded-0: fashion-designer 2/languages\n"
+
+#: 404.php:13
+#: inc/customizer.php:391
+#: inc/customizer.php:398
+msgid "404 Not Found"
+msgstr "找不到404"
+
+#: 404.php:14
+#: inc/customizer.php:405
+#: inc/customizer.php:412
+msgid "Looks like you have taken a wrong turn, Dont worry, it happens to the best of us."
+msgstr "看来您走错了路，别担心，这对我们所有人来说都是偶然的"
+
+#: 404.php:15 #: no-results.php:17
+msgid "Dont worry&hellip it happens to the best of us"
+msgstr "不要担心，他们会发生在我们最好的事情上"
+
+#: 404.php:16 
+#: no-results.php:19
+#: inc/customizer.php:419
+#: inc/customizer.php:425
+msgid "Go Back"
+msgstr "回去"
+
+#: archive.php:45 #: archive.php:77 archive.php:107 archive.php:139
+#: archive.php:172 archive.php:207 archive.php:239 image.php:38 image.php:71
+#: image.php:103 image.php:135 image.php:169 image.php:204 image.php:236
+#: index.php:43 index.php:76 index.php:108 index.php:140 index.php:174
+#: index.php:209 index.php:241 search.php:39 search.php:71 search.php:102
+#: search.php:133 search.php:166 search.php:201 search.php:233 single.php:38
+#: single.php:71 single.php:103 single.php:135 single.php:169 single.php:204
+#: single.php:236
+msgid "Previous page"
+msgstr "上一页"
+
+#: archive.php:46 #: archive.php:78 archive.php:109 archive.php:140
+#: archive.php:173 archive.php:208 archive.php:240 image.php:39 image.php:72
+#: image.php:104 image.php:136 image.php:170 image.php:205 image.php:237
+#: index.php:44 index.php:77 index.php:109 index.php:141 index.php:175
+#: index.php:210 index.php:242 search.php:40 search.php:72 search.php:103
+#: search.php:134 search.php:167 search.php:202 search.php:234 single.php:39
+#: single.php:72 single.php:104 single.php:136 single.php:170 single.php:205
+#: single.php:237
+msgid "Next page"
+msgstr "下一页"
+
+#: archive.php:47 #: archive.php:79 archive.php:110 archive.php:141
+#: archive.php:174 archive.php:209 archive.php:241 image.php:40 image.php:73
+#: image.php:105 image.php:137 image.php:171 image.php:206 image.php:238
+#: index.php:45 index.php:78 index.php:110 index.php:142 index.php:176
+#: index.php:211 index.php:243 search.php:41 search.php:73 search.php:104
+#: search.php:135 search.php:168 search.php:203 search.php:235 single.php:40
+#: single.php:73 single.php:105 single.php:137 single.php:171 single.php:206
+#: single.php:238
+msgid "Page"
+msgstr "页"
+
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo"
+msgstr "一想到了“％s”"
+
+#: comments.php:39
+msgid "comments title"
+msgstr "评论标题"
+
+#: comments.php:70
+msgid "Comments are closed"
+msgstr "评论标题评论已关闭"
+
+#: footer.php:11
+msgid "Footer"
+msgstr "页脚"
+
+#: footer.php:58
+msgid "&copy; Copyright 2019"
+msgstr "＆复制; 版权所有2019"
+
+#: footer.php:62 #: footer.php:64 footer.php:66
+msgid "Scroll Up"
+msgstr "向上滑动"
+
+#: functions.php:66
+msgid "Warm Greetings to you"
+msgstr "热烈的问候你"
+
+#: functions.php:67
+msgid ""
+"Thank you for choosing Fashion Designer Theme. Would like to have you on our "
+"Welcome page so that you can reap all the benefits of our Fashion Designer "
+"Theme"
+msgstr ""
+"感谢您选择时装设计师主题。 希望您在我们的欢迎页面上，以便您可以获得我们的时装"
+"设计师主题的所有好处"
+
+#: functions.php:68
+msgid "GET STARTED"
+msgstr "开始吧"
+
+#: functions.php:75
+msgid "Blog Sidebar"
+msgstr "博客侧边栏"
+
+#: functions.php:76
+msgid "Appears on blog page sidebar"
+msgstr "出现在博客页面边栏上"
+
+#: functions.php:85
+msgid "Page Sidebar"
+msgstr "页面边栏"
+
+#: functions.php:86 #: functions.php:96
+msgid "Appears on page sidebar"
+msgstr "出现在页面边栏上"
+
+#: functions.php:85
+msgid "Sidebar 3"
+msgstr "边栏3"
+
+#: functions.php:105 
+msgid "Footer Navigation 1"
+msgstr "页脚导航1"
+
+#: functions.php:106
+msgid "Appears on footer 1"
+msgstr "出现在页脚1"
+
+#: functions.php:115 
+msgid "Footer Navigation 2"
+msgstr "页脚导航2"
+
+#: functions.php:116
+msgid "Appears on footer 2"
+msgstr "出现在页脚2"
+
+#: functions.php:125 
+msgid "Footer Navigation 3"
+msgstr "页脚导航3"
+
+#: functions.php:126
+msgid "Appears on footer 3"
+msgstr "出现在页脚3"
+
+#: functions.php: 135
+msgid "Footer Navigation 4"
+msgstr "页脚导航4"
+
+#: functions.php:136
+msgid "Appears on footer 4"
+msgstr "出现在页脚4"
+
+#: functions.php:145
+msgid "Shop Page Sidebar"
+msgstr "商店页面侧栏"
+
+#: functions.php:146
+#: functions.php:156
+msgid "Appears on shop page"
+msgstr "出现在商店页面上"
+
+#: functions.php:155
+msgid "Single Product Sidebar"
+msgstr "单品侧边栏"
+
+#: functions.php:350
+msgid "Fashion WordPress Theme"
+msgstr "时尚WordPress主题"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "跳到内容"
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr "什么都没找到"
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here"
+msgstr "准备发布你的第一篇文章？ 从这里开始吧"
+
+#: no-results.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords"
+msgstr "抱歉，没有任何内容符合您的搜索字词。 请使用一些不同的关键字再试一次"
+
+#: search.php:13
+msgid "Results For: %s"
+msgstr "Results For: %s"
+
+#: searchform.php:12 #: searchform.php:14
+msgid "placeholder"
+msgstr "占位符"
+
+#: searchform.php:14
+msgid "submit button"
+msgstr "提交按钮"
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr "档案"
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr "元"
+
+#: inc\customizer.php:28
+msgid "VW Settings"
+msgstr "大众设置"
+
+#: inc\customizer.php:33
+msgid "General Settings"
+msgstr "常规设置"
+
+#: inc\customizer.php:38
+msgid "Full Width"
+msgstr "全屏宽度"
+
+#: inc\customizer.php:43
+msgid "Width Layouts"
+msgstr "宽度布局"
+
+#: inc\customizer.php:44
+msgid "Here you can change the width layout of Website"
+msgstr "在这里，您可以更改网站的宽度布局"
+
+#: inc\customizer.php:53 inc\customizer.php:63 #: inc\customizer.php:82
+msgid "Right Sidebar"
+msgstr "右侧边栏"
+
+#: inc\customizer.php:58
+msgid "Post Sidebar Layout"
+msgstr "帖子边栏布局"
+
+#: inc\customizer.php:59
+msgid "Here you can change the sidebar layout for posts"
+msgstr "在这里，您可以更改帖子的侧边栏布局"
+
+#: inc\customizer.php:62 #: inc\customizer.php:81
+msgid "Left Sidebar"
+msgstr "左侧边栏"
+
+#: inc\customizer.php:64 #: inc\customizer.php:83 inc\customizer.php:72
+msgid "One Column"
+msgstr "一栏"
+
+#: inc\customizer.php:65
+msgid "Three Columns"
+msgstr "三列"
+
+#: inc\customizer.php:66
+msgid "Four Columns"
+msgstr "四列"
+
+#: inc\customizer.php:67
+msgid "Grid Layout"
+msgstr "网格布局"
+
+#: inc\customizer.php:77
+msgid "Page Sidebar Layout"
+msgstr "页面边栏布局"
+
+#: inc\customizer.php:78
+msgid "Here you can change the sidebar layout for pages"
+msgstr "在这里，您可以更改页面的侧边栏布局"
+
+#: inc\customizer.php:94
+msgid 'Shop Page Sidebar'
+msgstr "商店页面侧栏"
+
+#: inc\customizer.php:105
+msgid 'Single Product Sidebar'
+msgstr "单品侧边栏"
+
+#: inc\customizer.php:116
+msgid 'Pre-Loader'
+msgstr "预装机"
+
+#: inc\customizer.php:126
+msgid 'Pre-Loader Type'
+msgstr "预装机类型"
+
+#: inc\customizer.php:129
+msgid 'Two Way'
+msgstr "两种方式"
+
+#: inc\customizer.php:130
+msgid 'Dots'
+msgstr "点"
+
+#: inc\customizer.php:131
+msgid 'Rotate'
+msgstr "旋转"
+
+#: inc\customizer.php:137
+msgid "Top Bar Settings"
+msgstr "顶栏设置"
+
+#: inc\customizer.php:148
+msgid "Sticky Header"
+msgstr "粘页眉"
+
+#: inc\customizer.php:158
+msgid "Show / Hide Search"
+msgstr "显示/隐藏搜索"
+
+#: inc\customizer.php:167
+msgid "Add Phone Text"
+msgstr "添加电话文字"
+
+#: inc\customizer.php:169
+msgid "PHONE"
+msgstr "电话"
+
+#: inc\customizer.php:180
+msgid "Add Phone Number"
+msgstr "添加电话号码"
+
+#: inc\customizer.php:193
+msgid "Add Email Text"
+msgstr "添加电子邮件文本"
+
+#: inc\customizer.php:195
+msgid "MAIL"
+msgstr "邮件"
+
+#: inc\customizer.php:206
+msgid "Add Email Address"
+msgstr "添加电子邮件地址"
+
+#: inc\customizer.php:151
+msgid "example@gmail.com"
+msgstr "example@gmail.com"
+
+#: inc\customizer.php:216 inc\getstarted\getstarted.php:195 #:
+#: inc\getstarted\getstarted.php:99
+msgid "Slider Settings"
+msgstr "滑块设置"
+
+#: inc\customizer.php:226
+msgid "Show / Hide Slider"
+msgstr "显示/隐藏滑块"
+
+#: inc\customizer.php:236
+msgid "Select Slider Page"
+msgstr "选择滑块页面"
+
+#: inc\customizer.php:238
+msgid "Slider image size (1600 x 700)"
+msgstr "滑块图片大小（1600 x 700）"
+
+#: inc\customizer.php:246
+msgid "Center"
+msgstr "中央"
+
+#: inc\customizer.php:251
+msgid "Slider Content Layouts"
+msgstr "滑块内容布局"
+
+#: inc\customizer.php:266
+msgid "Slider Image Opacity"
+msgstr "滑块图像不透明度"
+
+#: inc\customizer.php:286
+msgid "Fashion Categroy Section"
+msgstr "时装类组"
+
+#: inc\customizer.php:309
+msgid "Select Category to display Latest Post"
+msgstr "选择类别以显示最新帖子"
+
+#: inc\customizer.php:310
+msgid "Size of image should be 370 x 270"
+msgstr "图像尺寸应为370 x 270"
+
+#: inc\customizer.php:316
+msgid "Blog Post Settings"
+msgstr "博客帖子设置"
+
+#: inc\customizer.php:326
+msgid "Post Date"
+msgstr "发布日期"
+
+#: inc\customizer.php:336
+msgid "Author"
+msgstr "作者"
+
+#: inc\customizer.php:346
+msgid "Comments"
+msgstr "评论"
+
+#: inc\customizer.php:358
+msgid "Excerpt length"
+msgstr "摘录长度"
+
+#: inc\customizer.php:376
+msgid "Blog Layouts"
+msgstr "博客布局"
+
+#: inc/customizer.php:386
+msgid "404 Page Settings"
+msgstr "404页面设置"
+
+#: inc/customizer.php:396
+msgid "Add Title"
+msgstr "添加标题"
+
+#: inc/customizer.php:410
+msgid "Add Text"
+msgstr "添加文字"
+
+#: inc/customizer.php:423
+msgid "Add Button Text"
+msgstr "添加按钮文字"
+
+#: inc\customizer.php:443
+msgid "Customize Home Page Settings"
+msgstr "自定义主页设置"
+
+#: inc\customizer.php:346
+msgid ""
+"First select static page in homepage setting for front page.Below given edit "
+"button is to customize Home Page. Just click on the edit option, add "
+"whatever elements you want to include in the homepage, save the changes and "
+"you are good to go"
+msgstr ""
+"首先在首页的主页设置中选择静态页面。下面的编辑按钮是自定义主页。 只需单击编辑"
+"选项，添加要包含在主页中的任何元素，保存更改即可"
+
+#: inc\customizer.php:450 
+#: template-parts\image-layout.php:33
+msgid "Edit"
+msgstr "编辑"
+
+#: inc\customizer.php:455
+msgid "Footer Settings"
+msgstr "页脚设置"
+
+#: inc\customizer.php:464
+msgid "Copyright Text"
+msgstr "版权文本"
+
+#: inc\customizer.php:466
+msgid "Copyright 2019"
+msgstr "版权所有2019"
+
+#: inc\customizer.php:478
+msgid "Show / Hide Scroll To Top"
+msgstr "显示/隐藏滚动到顶部"
+
+#: inc\customizer.php:483
+msgid "Right"
+msgstr "对"
+
+#: inc\customizer.php:488
+msgid "Scroll To Top"
+msgstr "滚动到顶部"
+
+#: inc\customizer.php:573
+msgid "Fashion Designer Pro"
+msgstr "时装设计师临"
+
+#: inc\customizer.php:574
+msgid "UPGRADE PRO"
+msgstr "升级专业版"
+
+#: inc\customizer.php:580 
+#: inc\getstarted\getstarted.php:70
+msgid "DOCUMENTATION"
+msgstr "文档"
+
+#: inc\customizer.php:581
+msgid "DOCS"
+msgstr "DOCS"
+
+#: inc\getstarted\getstarted.php:5
+msgid "About Fashion Designer"
+msgstr "关于时装设计师"
+
+#: inc\getstarted\getstarted.php:38
+msgid "Welcome to Fashion Designer Theme"
+msgstr "欢迎来到时装设计师主题"
+
+#: inc\getstarted\getstarted.php:39
+msgid ""
+"All our WordPress themes are modern, minimalist, 100% responsive, seo-"
+"friendly,feature-rich, and multipurpose that best suit designers, bloggers "
+"and other professionals who are working in the creative fields"
+msgstr ""
+"我们所有的WordPress主题都是现代，简约，100％响应，seo友好，功能丰富，多功能，"
+"最适合设计师，博客和其他从事创意领域的专业人士"
+
+#: inc\getstarted\getstarted.php:46
+msgid "Buy Fashion Designer at 20% Discoun"
+msgstr "以20％的折扣购买时装设计师"
+
+#: inc\getstarted\getstarted.php:47
+msgid "vwpro20"
+msgstr "vopro20"
+
+#: inc\getstarted\getstarted.php:49 #: inc\getstarted\getstarted.php:327
+msgid "Upgrade to Pro"
+msgstr "升级到专业版"
+
+#: inc\getstarted\getstarted.php:56
+msgid "Getting Started"
+msgstr "入门"
+
+#: inc\getstarted\getstarted.php:57
+msgid "Get Premium"
+msgstr "获得高级版"
+
+#: inc\getstarted\getstarted.php:58
+msgid "Support"
+msgstr "支持"
+
+#: inc\getstarted\getstarted.php:63
+msgid "Lite Theme Information"
+msgstr "Lite主题信息"
+
+#: inc\getstarted\getstarted.php:65
+msgid ""
+"Fashion designer is a theme of premium category solely crafted for the "
+"fashion designers or fashion stylists or people who are associated with the "
+"business related to fashion or associated areas. It is a multipurpose, "
+"minimal and elegant theme making it a preferable one for the make-up "
+"artists, beauty salon operators well as personal designers. Being "
+"sophisticated, retina ready and user-friendly and accompanied with "
+"testimonial section, personalization options plus Bootstrap and CTA, this "
+"WordPress theme of premium level is good for the cosmetic boutique business "
+"and for the makeup salon as well as hair stylists. Fashion Designer  "
+"WordPress theme is social media and SEO friendly and apart from that, the "
+"theme is accompanied with optimised codes, clean codes and has the faster "
+"page load time. Fashion designer is also good for nail salon, visage salon, "
+"makeup studio, beauty blog, glamour and others. Since it is mobile friendly, "
+"responsive as well as translation ready, this premium wp theme can also be "
+"used to create blogs related to fashion, beauty, lifestyle, make up, gossip "
+"or food or journal blog and there is no requirement to write a single line "
+"of code. Fashion designer has the potential to create an exotic feminine "
+"fashion blog and is also a preferable one for bloggers, newspapers, writers "
+"or journalists"
+msgstr ""
+"时装设计师是高级类别的主题，专为时装设计师或时装设计师或与时尚或相关领域相关"
+"业务相关的人士精心打造。它是一个多功能，简约和优雅的主题，使其成为化妆师，美"
+"容院经营者和个人设计师的首选。精致，视网膜准备和用户友好，并附有推荐部分，个"
+"性化选项以及Bootstrap和CTA，这个优质水平的WordPress主题适用于化妆品精品业务，"
+"化妆沙龙和发型师。时装设计师WordPress主题是社交媒体和SEO友好，除此之外，主题"
+"是伴随优化的代码，干净的代码，并具有更快的页面加载时间。时装设计师也非常适合"
+"美甲沙龙，美容沙龙，化妆工作室，美容博客，魅力等。由于它具有移动友好性，响应"
+"性和翻译准备，这个高级wp主题还可以用于创建与时尚，美容，生活方式，化妆，八卦"
+"或食品或期刊博客相关的博客，并且没有要求写一个单一的代码行。时装设计师有潜力"
+"创造一个充满异国情调的女性时尚博客，也是博主，报纸，作家或记者的首选。"
+
+#: inc\getstarted\getstarted.php:67
+msgid "Theme Documentation"
+msgstr "主题文档"
+
+#: inc\getstarted\getstarted.php:68
+msgid ""
+"If you need any assistance regarding setting up and configuring the Theme, "
+"our documentation is there"
+msgstr "如果您在设置和配置主题方面需要任何帮助，我们的文档就在那里"
+
+#: inc\getstarted\getstarted.php:73
+msgid "Theme Customizer"
+msgstr "主题定制器"
+
+#: inc\getstarted\getstarted.php:74
+msgid "To begin customizing your website, start by clicking \"Customize\""
+msgstr "要开始自定义您的网站，请先点击“自定义”"
+
+#: inc\getstarted\getstarted.php:76
+msgid "Customizing"
+msgstr "定制"
+
+#: inc\getstarted\getstarted.php:79
+msgid "Having Trouble, Need Support"
+msgstr "有麻烦，需要支持"
+
+#: inc\getstarted\getstarted.php:80
+msgid ""
+"Our dedicated team is well prepared to help you out in case of queries and "
+"doubts regarding our theme"
+msgstr "我们的专业团队随时准备为您提供帮助，以便对我们的主题提出疑问和疑问"
+
+#: inc\getstarted\getstarted.php:82
+msgid "Support Forum"
+msgstr "支持论坛"
+
+#: inc\getstarted\getstarted.php:85
+msgid "Reviews & Testimonials"
+msgstr "评论和推荐"
+
+#: inc\getstarted\getstarted.php:86
+msgid ""
+"All the features and aspects of this WordPress Theme are phenomenal. I\"d "
+"recommend this theme to all"
+msgstr "这个WordPress主题的所有功能和方面都非常出色。 我向所有人推荐这个主题"
+
+#: inc\getstarted\getstarted.php:88
+msgid "Reviews"
+msgstr "评测"
+
+#: inc\getstarted\getstarted.php:91
+msgid "Link to customizer"
+msgstr "链接到定制器"
+
+#: inc\getstarted\getstarted.php:96
+msgid "Upload your logo"
+msgstr "上传您的徽标"
+
+#: inc\getstarted\getstarted.php:104
+msgid "Customize Home Page"
+msgstr "自定义主页"
+
+#: inc\getstarted\getstarted.php:107
+msgid "Fashion Category"
+msgstr "时尚类别"
+
+#: inc\getstarted\getstarted.php:112
+msgid "Menus"
+msgstr "菜单"
+
+#: inc\getstarted\getstarted.php:115
+msgid "Footer Widget"
+msgstr "页脚小工具"
+
+#: inc\getstarted\getstarted.php:121
+msgid "Blog Layout"
+msgstr "博客布局"
+
+#: inc\getstarted\getstarted.php:124
+msgid "Footer Text"
+msgstr "页脚文本"
+
+#: inc\getstarted\getstarted.php:131
+msgid "How to set up Home Page Template"
+msgstr "如何设置主页模板"
+
+#: inc\getstarted\getstarted.php:133
+msgid "Follow these instructions to setup Home page"
+msgstr "按照以下说明设置主页"
+
+#: inc\getstarted\getstarted.php:135
+msgid "Create a Page to set template:  Go to"
+msgstr "创建页面以设置模板：转到"
+
+#: inc\getstarted\getstarted.php:136
+msgid "Dashboard &gt;&gt; Pages &gt;&gt; Add New Page"
+msgstr "仪表板＆gt;＆gt; 页面＆gt;＆gt; 添加新页面"
+
+#: inc\getstarted\getstarted.php:137
+msgid ""
+"Label it \"home\" or anything as you wish. Then select template \"home-page"
+"\" from template dropdown"
+msgstr "将其标记为“家”或任何您想要的东西。 然后从模板下拉列表中选择模板“主页”"
+
+#: inc\getstarted\getstarted.php:139
+msgid "Go to"
+msgstr "去"
+
+#: inc\getstarted\getstarted.php:140
+msgid ""
+"Settings -&gt; Reading --&gt; Set the front page display static page to home "
+"page"
+msgstr "设置 - ＆gt; 阅读 - ＆gt; 将首页显示静态页面设置为主页"
+
+#: inc\getstarted\getstarted.php:142
+msgid ""
+"Once you are done with this, you can see all the demo content on front page"
+msgstr "完成此操作后，您可以在首页上看到所有演示内容"
+
+#: inc\getstarted\getstarted.php:148
+msgid "Premium Theme Information"
+msgstr "高级主题信息"
+
+#: inc\getstarted\getstarted.php:151
+msgid ""
+"Fashion designer WordPress theme is creative as well as sharp and is pliable "
+"and responsive making it a preferable choice for the fashion industry as "
+"well as fashion designers or the startups who want to excel in the fashion "
+"related business. With this theme, you are in a position to craft the "
+"websites of professional quality because of certain mind-blowing features "
+"like customization and personalization options, retina ready, Bootstrap, "
+"CTA, translation readiness, clean code, testimonial section and much more-"
+"all making this theme good for the makeup artists as well as personal "
+"designers. Fashion designer WP theme is good for cosmetics boutique, makeup "
+"salon, hairstylist, fashion blog, hairdresser, nail salon, visage salon, "
+"makeup studio, beauty blog, glamour, and others. Since this WP theme is "
+"clean and animated, it can be used to create fashion, lifestyle, beauty, "
+"makeup, gossip, food or a journal blog without writing a single line of "
+"code. Since it is luxurious with shortcodes, feminine fashion blog can be "
+"created as well"
+msgstr ""
+"时装设计师WordPress主题既富有创意又富有灵活性和敏感性，使其成为时尚界以及时尚"
+"设计师或想要在时尚相关业务中脱颖而出的创业公司的首选。有了这个主题，您可以制"
+"作专业品质的网站，因为它具有一些令人兴奋的功能，如定制和个性化选项，视网膜准"
+"备，Bootstrap，CTA，翻译准备，清洁代码，推荐部分以及更多 - 所有制作这个主题对"
+"化妆师和个人设计师都有好处。时装设计师WP主题适用于化妆品精品店，化妆沙龙，发"
+"型师，时尚博客，美发师，美甲沙龙，面部沙龙，化妆工作室，美容博客，魅力等。由"
+"于这个WP主题是干净和动画的，它可以用来创建时尚，生活方式，美容，化妆，八卦，"
+"食物或期刊博客，而无需编写任何代码。由于它是豪华的短代码，也可以创造女性时尚"
+"博客"
+
+#: inc\getstarted\getstarted.php:153
+msgid "Live Demo"
+msgstr "现场演示"
+
+#: inc\getstarted\getstarted.php:154
+msgid "Buy Pro"
+msgstr "买专业"
+
+#: inc\getstarted\getstarted.php:155
+msgid "Pro Documentation"
+msgstr "专业文档"
+
+#: inc\getstarted\getstarted.php:162
+msgid "Theme Features"
+msgstr "主题特色"
+
+#: inc\getstarted\getstarted.php:169
+msgid "Free Themes"
+msgstr "免费主题"
+
+#: inc\getstarted\getstarted.php:170
+msgid "Premium Themes"
+msgstr "高级主题"
+
+#: inc\getstarted\getstarted.php:175
+msgid "Theme Customization"
+msgstr "主题定制"
+
+#: inc\getstarted\getstarted.php:180
+msgid "Responsive Design"
+msgstr "响应式设计"
+
+#: inc\getstarted\getstarted.php:185
+msgid "Logo Upload"
+msgstr "徽标上传"
+
+#: inc\getstarted\getstarted.php:190
+msgid "Social Media Links"
+msgstr "社交媒体链接"
+
+#: inc\getstarted\getstarted.php:200
+msgid "Number of Slides"
+msgstr "幻灯片数量"
+
+#: inc\getstarted\getstarted.php:202
+msgid "Unlimited"
+msgstr "无限"
+
+#: inc\getstarted\getstarted.php:205
+msgid "Template Pages"
+msgstr "模板页面"
+
+#: inc\getstarted\getstarted.php:210
+msgid "Home Page Template"
+msgstr "主页模板"
+
+#: inc\getstarted\getstarted.php:215
+msgid "Contact us Page Template"
+msgstr "联系我们页面模板"
+
+#: inc\getstarted\getstarted.php:220
+msgid "Blog Templates & Layout"
+msgstr "博客模板和布局"
+
+#: inc\getstarted\getstarted.php:222
+msgid "3(Full width/Left/Right Sidebar)"
+msgstr "3（全宽/左/右侧边栏）"
+
+#: inc\getstarted\getstarted.php:225
+msgid "Page Templates & Layout"
+msgstr "页面模板和布局"
+
+#: inc\getstarted\getstarted.php:227
+msgid "2(Left/Right Sidebar)"
+msgstr "2（左/右侧边栏）"
+
+#: inc\getstarted\getstarted.php:230
+msgid "Full Documentation"
+msgstr "完整文档"
+
+#: inc\getstarted\getstarted.php:235
+msgid "Latest WordPress Compatibility"
+msgstr "最新的WordPress兼容性"
+
+#: inc\getstarted\getstarted.php:240
+msgid "Woo-Commerce Compatibility"
+msgstr "Woo-Commerce兼容性"
+
+#: inc\getstarted\getstarted.php:245
+msgid "Support 3rd Party Plugins"
+msgstr "支持第三方插件"
+
+#: inc\getstarted\getstarted.php:250
+msgid "Secure and Optimized Code"
+msgstr "安全和优化的代码"
+
+#: inc\getstarted\getstarted.php:255
+msgid "Exclusive Functionalities"
+msgstr "安全和优化的代码"
+
+#: inc\getstarted\getstarted.php:260
+msgid "Section Enable / Disable"
+msgstr "部分启用/禁用"
+
+#: inc\getstarted\getstarted.php:265
+msgid "Section Google Font Choices"
+msgstr "部分谷歌字体选择"
+
+#: inc\getstarted\getstarted.php:270
+msgid "Gallery"
+msgstr "画廊"
+
+#: inc\getstarted\getstarted.php:275
+msgid "Simple & Mega Menu Option"
+msgstr "简单和超级菜单选项"
+
+#: inc\getstarted\getstarted.php:280
+msgid "Support to add custom CSS / JS"
+msgstr "支持添加自定义CSS / JS"
+
+#: inc\getstarted\getstarted.php:285
+msgid "Shortcodes"
+msgstr "简码"
+
+#: inc\getstarted\getstarted.php:290
+msgid "Logo & Menu"
+msgstr "徽标和菜单"
+
+#: inc\getstarted\getstarted.php:295
+msgid "Premium Membership"
+msgstr "高级会员"
+
+#: inc\getstarted\getstarted.php:300
+msgid "Budget Friendly Value"
+msgstr "预算友好价值"
+
+#: inc\getstarted\getstarted.php:305
+msgid "Priority Error Fixing"
+msgstr "优先级错误修复"
+
+#: inc\getstarted\getstarted.php:310
+msgid "Custom Feature Addition"
+msgstr "自定义功能添加"
+
+#: inc\getstarted\getstarted.php:315
+msgid "All Access Theme Pass"
+msgstr "所有访问主题通行证"
+
+#: inc\getstarted\getstarted.php:320
+msgid "Seamless Customer Support"
+msgstr "无缝的客户支持"
+
+#: inc\getstarted\getstarted.php:337
+msgid "Pro Version"
+msgstr "专业版"
+
+#: inc\getstarted\getstarted.php:338
+msgid ""
+"To gain access to extra theme options and more interesting features, upgrade "
+"to pro version"
+msgstr "要访问额外的主题选项和更有趣的功能，请升级到专业版"
+
+#: inc\getstarted\getstarted.php:340
+msgid "Get Pro"
+msgstr "得到专业"
+
+#: inc\getstarted\getstarted.php:344
+msgid "Pre-purchase Queries"
+msgstr "预购查询"
+
+#: inc\getstarted\getstarted.php:345
+msgid "If you have any pre-sale query, we are prepared to resolve it"
+msgstr "如果您有任何预售查询，我们准备解决它"
+
+#: inc\getstarted\getstarted.php:347
+msgid "Question"
+msgstr "题"
+
+#: inc\getstarted\getstarted.php:351
+msgid "Child Theme"
+msgstr "儿童主题"
+
+#: inc\getstarted\getstarted.php:352
+msgid ""
+"For theme file customizations, make modifications in the child theme and not "
+"in the main theme file"
+msgstr "对于主题文件自定义，请在子主题中进行修改，而不是在主题文件中进行修改"
+
+#: inc\getstarted\getstarted.php:354
+msgid "About Child Theme"
+msgstr "关于儿童主题"
+
+#: inc\getstarted\getstarted.php:359
+msgid "Frequently Asked Questions"
+msgstr "经常问的问题"
+
+#: inc\getstarted\getstarted.php:360
+msgid ""
+"We have gathered top most, frequently asked questions and answered them for "
+"your easy understanding. We will list down more as we get new challenging "
+"queries. Check back often"
+msgstr ""
+"我们收集了最常见的常见问题并回答了您的问题，以便您轻松理解。 随着我们获得新的"
+"挑战性查询，我们将列出更多内容。 经常回来看看"
+
+#: inc\getstarted\getstarted.php:362
+msgid "View FAQ"
+msgstr "查看FAQ"
+
+#: inc\getstarted\getstarted.php:367
+msgid "Support Queries"
+msgstr "支持查询"
+
+#: inc\getstarted\getstarted.php:368
+msgid ""
+"If you have any queries after purchase, you can contact us. We are eveready "
+"to help you out"
+msgstr "如果您在购买后有任何疑问，可以与我们联系。 我们已经准备好帮助你了"
+
+#: inc\getstarted\getstarted.php:370
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: inc\logo\logo-resizer.php:19
+msgid "Logo Size"
+msgstr "徽标大小"
+
+#: inc\social-widgets\social-icon.php:12
+msgid "Social Icon"
+msgstr "社会图标"
+
+#: inc\social-widgets\social-icon.php:14
+msgid "Widget for Social icons section"
+msgstr "社交图标部分的小部件"
+
+#: inc\social-widgets\social-icon.php:36 #:
+#: inc\social-widgets\social-icon.php:68
+msgid "Facebook"
+msgstr "Facebook的"
+
+#: inc\social-widgets\social-icon.php:37 #:
+#: inc\social-widgets\social-icon.php:72
+msgid "Twitter"
+msgstr "推特"
+
+#: inc\social-widgets\social-icon.php:38 #:
+#: inc\social-widgets\social-icon.php:76
+msgid "Google"
+msgstr "谷歌"
+
+#: inc\social-widgets\social-icon.php:39 #:
+#: inc\social-widgets\social-icon.php:80
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc\social-widgets\social-icon.php:40 #:
+#: inc\social-widgets\social-icon.php:88
+msgid "Pinterest"
+msgstr "Pinterest的"
+
+#: inc\social-widgets\social-icon.php:41 #:
+#: inc\social-widgets\social-icon.php:92
+msgid "Tumblr"
+msgstr "tumblr"
+
+#: inc\social-widgets\social-icon.php:42 #:
+#: inc\social-widgets\social-icon.php:84
+msgid "Instagram"
+msgstr "Instagram的"
+
+#: inc\social-widgets\social-icon.php:43 #:
+#: inc\social-widgets\social-icon.php:96
+msgid "Youtube"
+msgstr "的Youtube"
+
+#: inc\social-widgets\social-icon.php:64
+msgid "Title"
+msgstr "标题"
+
+#: inc\typography\ctypo.php:27
+msgid "Theme Typography"
+msgstr "主题排版"
+
+#: inc\typography\ctypo.php:31
+msgid "Content Typography"
+msgstr "内容排版"
+
+#: inc\typography\ctypo.php:36
+msgid "Headings Typography"
+msgstr "标题排版"
+
+#: inc\typography\ctypo.php:41
+msgid "Global Typography"
+msgstr "全球排版"
+
+#: inc\typography\ctypo.php:49 #: inc\typography\ctypo.php:59
+msgid "It will change the complete theme color in one click"
+msgstr "它只需点击一下即可更改完整的主题颜色"
+
+#: inc\typography\ctypo.ph:147
+msgid "Paragraph Color"
+msgstr "段落颜色"
+
+#: inc\typography\ctypo.php:148 #: inc\typography\ctypo.php:154
+msgid "Select how you want your paragraphs to appear"
+msgstr "选择您希望段落的显示方式"
+
+#: inc\typography\ctypo.php:153
+msgid "Paragraph Typography"
+msgstr "段落排版"
+
+#: inc\typography\ctypo.php:174
+msgid "Anchor Tag Color"
+msgstr "锚标签颜色"
+
+#: inc\typography\ctypo.php:175 #: inc\typography\ctypo.php:181
+msgid "Select how you want your a tag to appear"
+msgstr "选择标签的显示方式"
+
+#: inc\typography\ctypo.php:180
+msgid "Anchor Tag Typography"
+msgstr "锚标记排版"
+
+#: inc\typography\ctypo.php:201
+msgid "Heading 1 Color"
+msgstr "标题1颜色"
+
+#: inc\typography\ctypo.php:202 #: inc\typography\ctypo.php:208
+msgid "Select how heading 1 should appear"
+msgstr "选择标题1的显示方式"
+
+#: inc\typography\ctypo.php:207 #: inc\typography\ctypo.php:234
+#: inc\typography\ctypo.php:261 inc\typography\ctypo.php:288
+#: inc\typography\ctypo.php:315 inc\typography\ctypo.php:342
+msgid "Heading"
+msgstr "标题"
+
+#: inc\typography\ctypo.php:228
+msgid "Heading 2 Color"
+msgstr "标题2颜色"
+
+#: inc\typography\ctypo.php:229 #: inc\typography\ctypo.php:235
+msgid "Select how heading 2 should appear"
+msgstr "Select how heading 2 should appear"
+
+#: inc\typography\ctypo.php:255
+msgid "Heading 3 Color"
+msgstr "标题3颜色"
+
+#: inc\typography\ctypo.php:256 #: inc\typography\ctypo.php:262
+msgid "Select how heading 3 should appear"
+msgstr "选择标题3应该如何显示"
+
+#: inc\typography\ctypo.php:282
+msgid "Heading 4 Color"
+msgstr "标题4颜色"
+
+#: inc\typography\ctypo.php:283 #: inc\typography\ctypo.php:289
+msgid "Select how heading 4 should appear"
+msgstr "选择标题4应该如何显示"
+
+#: inc\typography\ctypo.php:309
+msgid "Heading 5 Color"
+msgstr "标题5颜色"
+
+#: inc\typography\ctypo.php:310 #: inc\typography\ctypo.php:316
+msgid "Select how heading 5 should appear"
+msgstr "选择标题5应该如何显示"
+
+#: inc\typography\ctypo.php:310 #: inc\typography\ctypo.php:336
+msgid "Heading 6 Color"
+msgstr "标题6颜色"
+
+#: inc\typography\ctypo.php:343
+msgid "Select how heading 6 should appear"
+msgstr "选择标题6应该如何显示"
+
+#: inc\typography\customize\control-typography.php:48
+msgid "Font Color"
+msgstr "字体颜色"
+
+#: inc\typography\customize\control-typography.php:49
+msgid "Font Family"
+msgstr "字体系列"
+
+#: inc\typography\customize\control-typography.php:50
+msgid "Font Size"
+msgstr "字体大小"
+
+#: inc\typography\customize\control-typography.php:51
+msgid "Font Weight"
+msgstr "字体重量"
+
+#: inc\typography\customize\control-typography.php:52
+msgid "Font Style"
+msgstr "字体样式"
+
+#: inc\typography\customize\control-typography.php:53
+msgid "Line Height"
+msgstr "线高"
+
+#: inc\typography\customize\control-typography.php:54
+msgid "Letter Spacing"
+msgstr "字母间距"
+
+#: inc\typography\customize\control-typography.php:247
+msgid "No Fonts weight"
+msgstr "没有字体重量"
+
+#: inc\typography\customize\control-typography.php:248
+msgid "Thin"
+msgstr "瘦"
+
+#: inc\typography\customize\control-typography.php:249
+msgid "Light"
+msgstr "光"
+
+#: inc\typography\customize\control-typography.php:250
+#: inc\typography\customize\control-typography.php:268
+msgid "Normal"
+msgstr "正常"
+
+#: inc\typography\customize\control-typography.php:251
+msgid "Medium"
+msgstr "介质"
+
+#: inc\typography\customize\control-typography.php:252
+msgid "Bold"
+msgstr "胆大"
+
+#: inc\typography\customize\control-typography.php:253
+msgid "Ultra Bold"
+msgstr "超大胆"
+
+#: inc\typography\customize\control-typography.php:267
+msgid "No Fonts Style"
+msgstr "没有字体样式"
+
+#: inc\typography\customize\control-typography.php:269
+msgid "Italic"
+msgstr "Italic"
+
+#: inc\typography\customize\control-typography.php:270
+msgid "Oblique"
+msgstr "斜"
+
+#: page-template\custom-home-page.php:40 #: template-parts\content-audio.php:55
+#: template-parts\content-gallery.php:43 template-parts\content-image.php:36
+#: template-parts\content-video.php:54 template-parts\content.php:39
+#: template-parts\grid-layout.php:26
+msgid "READ MORE"
+msgstr "阅读更多"
+
+#: page-template\custom-home-page.php:58 #:
+#: template-parts\single-post-layout.php:46
+msgid "Next"
+msgstr "下一个"
+
+#: template-parts\content-audio.php:49 #: template-parts\content-gallery.php:37
+#: template-parts\content-image.php:30 template-parts\content-video.php:48
+#: template-parts\content.php:32 template-parts\single-post-layout.php:22
+msgid "% Comments"
+msgstr "％ 评论"
+
+#: template-parts\image-layout.php:28
+msgid "Pages"
+msgstr "网页"
+
+#: template-parts\single-post-layout.php:41
+msgid "Parent post link"
+msgstr "家长发布链接"
+
+#: template-parts\single-post-layout.php:47
+msgid "Next post"
+msgstr "下一篇文章"
+
+#: template-parts\single-post-layout.php:49 #:
+#: page-template\custom-home-page.php:54
+msgid "Previous"
+msgstr "以前"
+
+#: template-parts\single-post-layout.php:50
+msgid "Previous post"
+msgstr "上一篇文章"
+
+#: template-parts\header\navigation.php:11
+msgid "Menu"
+msgstr "菜单"
+
+#: template-parts\header\top-header.php:28
+msgid "shopping cart"
+msgstr "购物车"
+
+#: woocommerce\checkout\form-checkout.php:26
+msgid "You must be logged in to checkout"
+msgstr "您必须登录才能结帐"
+
+#: woocommerce\checkout\form-checkout.php:52
+msgid "Your order"
+msgstr "你的订单"
